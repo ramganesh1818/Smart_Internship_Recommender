@@ -1,0 +1,1001 @@
+id,title,organization,sector,location,skills,duration,stipend,type,mode
+1,Tour Planning Intern,LexGuard Associates,Tourism,Patna,CSS|Content Writing|Digital Marketing|React|SEO|SQL|Tableau,3 months,14000,Private,Offline
+2,Policy Research Intern,CivicLink Foundation,Public Policy,Chennai,AutoCAD|C|Content Writing|Excel|Java|Photoshop|Research,2 months,11000,Startup,Hybrid
+3,Agri Research Intern,Spectrum Media House,Agriculture,Jaipur,AutoCAD|Data Entry|Excel|Networking|React|Research|SolidWorks|UI/UX,2 months,10500,Govt,Offline
+4,Legal Research Intern,PolicyWorks India,Law,Hyderabad,Content Writing|Networking|Research|SPSS|SQL,2 months,4000,PSU,Offline
+5,Cyber Risk Intern,AgriNova Collective,Cybersecurity,Kochi,Data Entry|Digital Marketing|Linux|Networking|Photoshop|Python,2 months,14500,Startup,Online
+6,Social Media Intern,CivicLink Foundation,Media,Ranchi,AutoCAD|Canva|Content Writing|Digital Marketing|GST|Photoshop|SQL,3 months,14000,PSU,Offline
+7,Clinical Research Intern,Spectrum Media House,Healthcare,Patna,C++|Figma|Java|Photoshop|Research|SolidWorks,1 month,11000,NGO,Hybrid
+8,Product Design Intern,Insight Finance Group,Design,Guwahati,Canva|Content Writing|Illustrator|SPSS,1 month,11500,PSU,Offline
+9,Sustainability Intern,AgriNova Collective,Renewable Energy,Visakhapatnam,AutoCAD|Digital Marketing|Excel|Illustrator|Linux|Research,1 month,9000,NGO,Hybrid
+10,Clinical Research Intern,GreenGrowth Initiatives,Healthcare,Guwahati,Content Writing|Excel|Photoshop|SPSS,3 months,12000,Private,Online
+11,Travel Operations Intern,LexGuard Associates,Tourism,Mumbai,ArcGIS|AutoCAD|Content Writing|Digital Marketing|Excel|Linux|R|Tableau,1 month,11000,Private,Offline
+12,Security Analyst Intern,Spectrum Media House,Cybersecurity,Kolkata,AutoCAD|CSS|Data Entry|Illustrator|Networking|R|React,6 months,8500,PSU,Online
+13,Finance Analyst Intern,Spectrum Media House,Finance,Bhopal,C|Data Entry|Power BI|QGIS|SEO|SQL|Typing,3 months,15000,Startup,Online
+14,Compliance Intern,Insight Finance Group,Law,Chandigarh,Content Writing|Java|Power BI|Python|React|SQL|Tableau,3 months,5500,Startup,Hybrid
+15,Digital Governance Intern,Skyline Innovations,E-Governance,Guwahati,AutoCAD|Content Writing|Networking|Python|Research|SEO|SQL,3 months,10500,PSU,Offline
+16,Full Stack Intern,SecureNet Systems,IT,Thiruvananthapuram,CSS|HTML|Java|JavaScript|Linux|Power BI|Python|QGIS|SPSS,2 months,4500,PSU,Hybrid
+17,Digital Governance Intern,CivicLink Foundation,E-Governance,Thiruvananthapuram,CSS|Content Writing|Excel|Figma|Photoshop|R,2 months,11000,NGO,Offline
+18,Sustainability Intern,Innovate Labs,Renewable Energy,Kochi,AutoCAD|Excel|Figma|Java|Networking|Photoshop|Research|Tally,1 month,7000,PSU,Hybrid
+19,Clinical Research Intern,TourEase Travels,Healthcare,Chennai,ArcGIS|Data Entry|HTML|Java|Networking|Python,1 month,13500,Startup,Offline
+20,Digital Governance Intern,NextGen Logistics,E-Governance,Ahmedabad,ArcGIS|CSS|Canva|Excel|Figma|Linux|Python|React|Research,6 months,3500,Startup,Offline
+21,Agri Research Intern,AgriNova Collective,Agriculture,Bengaluru,Content Writing|Illustrator|SPSS|Tableau,6 months,10000,NGO,Hybrid
+22,Agri Research Intern,NextGen Logistics,Agriculture,Chennai,Content Writing|Excel|JavaScript|Power BI|Research|SolidWorks|Tally,1 month,7500,Startup,Online
+23,Graphic Design Intern,NextGen Logistics,Design,Bhopal,Digital Marketing|Photoshop|SPSS|Typing,6 months,13500,Govt,Hybrid
+24,Cyber Risk Intern,CivicLink Foundation,Cybersecurity,Chandigarh,C++|Digital Marketing|Illustrator|Networking|Tableau,6 months,3000,Govt,Online
+25,Tour Planning Intern,EcoVision Energy,Tourism,Chandigarh,C|Content Writing|Excel|GST|Networking|QGIS,2 months,9000,Startup,Hybrid
+26,Data Analyst Intern,Spectrum Media House,Data Analytics,Pune,Power BI|R|SQL|Tableau|Typing,1 month,11000,NGO,Offline
+27,Agri Research Intern,UrbanRise Solutions,Agriculture,Jaipur,Data Entry|Digital Marketing|Excel|HTML|Python|QGIS|SPSS,3 months,13000,PSU,Hybrid
+28,Solar Projects Intern,EduBridge Alliance,Renewable Energy,Lucknow,ArcGIS|AutoCAD|Data Entry|Excel|Illustrator|Java|Power BI|React|Research,2 months,10000,PSU,Online
+29,Spatial Data Intern,Skyline Innovations,GIS,Nagpur,ArcGIS|Excel|QGIS|Research|SQL,3 months,6000,Private,Hybrid
+30,Investment Research Intern,EduBridge Alliance,Finance,Chennai,ArcGIS|AutoCAD|Digital Marketing|GST|Python|SPSS|SolidWorks|UI/UX,2 months,9500,Startup,Offline
+31,Cyber Risk Intern,CivicLink Foundation,Cybersecurity,Indore,Canva|Java|Linux|Networking|Python|Tableau,2 months,3000,NGO,Online
+32,Supply Chain Intern,Insight Finance Group,Logistics,Lucknow,ArcGIS|Content Writing|Excel|Linux,6 months,9500,Startup,Hybrid
+33,Clinical Research Intern,Innovate Labs,Healthcare,Kochi,Excel|GST|Networking|QGIS|SPSS|Tableau,2 months,6500,Private,Offline
+34,Policy Research Intern,DataPulse Analytics,Public Policy,Remote,Content Writing|Excel|Illustrator|React|Tally,2 months,14000,Govt,Hybrid
+35,Full Stack Intern,BrightPath Designs,IT,Kolkata,ArcGIS|Networking|Power BI|React|UI/UX,6 months,7500,PSU,Hybrid
+36,IT Support Intern,TourEase Travels,IT,Kolkata,Content Writing|HTML|Power BI|QGIS|React|SQL,3 months,12500,Startup,Hybrid
+37,Healthcare Data Intern,Skyline Innovations,Healthcare,Chandigarh,Excel|Figma|Illustrator|Java|Research|SPSS|SQL|Typing,2 months,4500,NGO,Hybrid
+38,Academic Research Intern,GreenGrowth Initiatives,Education,Visakhapatnam,Canva|Content Writing|Excel|Linux|Research|Tableau,6 months,3000,Startup,Online
+39,Software Intern,Insight Finance Group,IT,Indore,CSS|Canva|Figma|HTML|JavaScript|R|SQL,1 month,5500,PSU,Offline
+40,Investment Research Intern,Insight Finance Group,Finance,Ahmedabad,ArcGIS|C|JavaScript|Power BI|Python|SEO|SQL,2 months,3500,PSU,Hybrid
+41,Investment Research Intern,UrbanRise Solutions,Finance,Noida,AutoCAD|Content Writing|Excel|HTML|Illustrator|Photoshop|SQL,6 months,13000,Startup,Offline
+42,Supply Chain Intern,BrightPath Designs,Logistics,Remote,Digital Marketing|Excel|Power BI|Python|SEO|SQL|Tableau,1 month,7000,Startup,Hybrid
+43,Business Intelligence Intern,TourEase Travels,Data Analytics,Mysuru,AutoCAD|Java|Power BI|R|React|SQL,1 month,7500,Startup,Offline
+44,Social Media Intern,TourEase Travels,Media,Bengaluru,AutoCAD|Content Writing|Digital Marketing|SPSS|SolidWorks,6 months,12500,NGO,Hybrid
+45,Full Stack Intern,MapCraft GIS,IT,Remote,AutoCAD|C++|Networking|Photoshop|Python|React|SQL,2 months,3500,Startup,Hybrid
+46,Travel Operations Intern,NextGen Logistics,Tourism,Raipur,C++|CSS|Content Writing|Data Entry|Digital Marketing|Excel|Tableau|Tally,6 months,10500,PSU,Online
+47,Digital Governance Intern,AgriNova Collective,E-Governance,Guwahati,C++|Data Entry|Excel|Illustrator|Java|Linux|Python|Research|SPSS,3 months,10000,NGO,Hybrid
+48,Learning Design Intern,Innovate Labs,Education,Nagpur,Content Writing|Data Entry|Digital Marketing|R|Research,6 months,4000,Private,Offline
+49,Academic Research Intern,FutureWave Tech,Education,Ranchi,Canva|Content Writing|Digital Marketing|Figma|Illustrator|QGIS,3 months,11000,Govt,Offline
+50,Sustainability Intern,PolicyWorks India,Renewable Energy,Noida,Content Writing|Excel|HTML|Illustrator|SolidWorks|Tableau,3 months,11500,NGO,Hybrid
+51,Compliance Intern,BrightPath Designs,Law,Surat,C|Content Writing|HTML|Research|Tally,2 months,15000,Private,Offline
+52,Academic Research Intern,UrbanRise Solutions,Education,Pune,AutoCAD|C|C++|Excel|Photoshop|Research,1 month,7000,PSU,Hybrid
+53,Learning Design Intern,Spectrum Media House,Education,Raipur,Content Writing|Excel|Research|Typing,2 months,11000,PSU,Hybrid
+54,Operations Intern,LexGuard Associates,Logistics,Surat,Excel|HTML|Networking|Power BI|SQL|Tally,2 months,7500,Private,Offline
+55,Graphic Design Intern,LexGuard Associates,Design,Surat,ArcGIS|Figma|Java|Photoshop|Research|SQL,2 months,4500,Govt,Offline
+56,Product Design Intern,Insight Finance Group,Design,Chennai,C++|Canva|Excel|Figma|Illustrator|QGIS|Tableau|UI/UX,1 month,7000,Govt,Hybrid
+57,Sustainability Intern,HealthSphere Analytics,Renewable Energy,Remote,AutoCAD|C++|Data Entry|Excel|GST|Power BI|Python|R|Research,2 months,8000,Private,Offline
+58,GIS Mapping Intern,PolicyWorks India,GIS,Visakhapatnam,ArcGIS|AutoCAD|CSS|Excel|Illustrator|Java|React|Typing,3 months,8000,Startup,Offline
+59,Solar Projects Intern,GreenGrowth Initiatives,Renewable Energy,Chennai,AutoCAD|Data Entry|Excel|QGIS|Research|SolidWorks|UI/UX,2 months,5500,Startup,Online
+60,Spatial Data Intern,Skyline Innovations,GIS,Mumbai,ArcGIS|Data Entry|QGIS|Tableau,6 months,11500,Govt,Hybrid
+61,Investment Research Intern,HealthSphere Analytics,Finance,Ranchi,CSS|Canva|Excel|GST|HTML|Power BI|SQL|Tally,1 month,11500,NGO,Online
+62,IT Support Intern,MapCraft GIS,IT,Chennai,ArcGIS|Data Entry|Figma|Linux|SPSS|SQL,3 months,3500,PSU,Online
+63,Business Intelligence Intern,DataPulse Analytics,Data Analytics,Noida,JavaScript|Python|SQL|UI/UX,3 months,12000,Startup,Online
+64,Academic Research Intern,NextGen Logistics,Education,Gurugram,Content Writing|Figma|JavaScript|R|Research|SEO,3 months,13000,Govt,Online
+65,Supply Chain Intern,DataPulse Analytics,Logistics,Ahmedabad,HTML|Illustrator|Power BI|Research|SQL,6 months,6500,PSU,Hybrid
+66,Spatial Data Intern,LexGuard Associates,GIS,Nagpur,ArcGIS|C++|Content Writing|Excel|Illustrator,6 months,12000,NGO,Online
+67,GIS Mapping Intern,PolicyWorks India,GIS,Mumbai,ArcGIS|AutoCAD|Excel|Power BI|QGIS|R|Research|SQL|Tableau,2 months,5000,PSU,Offline
+68,Graphic Design Intern,Innovate Labs,Design,Thiruvananthapuram,Content Writing|Illustrator|Linux|Photoshop|UI/UX,3 months,13000,Govt,Offline
+69,Operations Intern,NextGen Logistics,Logistics,Jaipur,Canva|Excel|SEO|Tableau,2 months,11000,Govt,Offline
+70,Software Intern,DataPulse Analytics,IT,Bhopal,C|Content Writing|Excel|JavaScript|Linux|Python|QGIS|SPSS,3 months,4000,Govt,Online
+71,IT Support Intern,TourEase Travels,IT,Chandigarh,CSS|Data Entry|HTML|Tableau|UI/UX,1 month,10000,Startup,Online
+72,Tour Planning Intern,TourEase Travels,Tourism,Noida,C|Content Writing|Digital Marketing|Excel|Illustrator|Photoshop|R|Tableau,2 months,11000,Startup,Offline
+73,Agri Research Intern,HealthSphere Analytics,Agriculture,Raipur,C|Data Entry|Excel|R|Research|SPSS|SQL|UI/UX,3 months,13000,Private,Hybrid
+74,Business Intelligence Intern,AgriNova Collective,Data Analytics,Thiruvananthapuram,Data Entry|Excel|R|SPSS,6 months,4000,PSU,Hybrid
+75,Data Analyst Intern,Innovate Labs,Data Analytics,Ranchi,C++|HTML|Python|UI/UX,6 months,6500,NGO,Hybrid
+76,Cyber Risk Intern,DataPulse Analytics,Cybersecurity,Thiruvananthapuram,C++|Canva|Networking|Photoshop|Python,6 months,10000,Private,Online
+77,Travel Operations Intern,NextGen Logistics,Tourism,Mysuru,Content Writing|Digital Marketing|Excel|Research|SEO|SQL|Typing,2 months,9000,Startup,Offline
+78,Data Analyst Intern,Insight Finance Group,Data Analytics,Guwahati,Data Entry|Excel|Figma|R|SQL|Typing,2 months,3000,Govt,Hybrid
+79,Supply Chain Intern,LexGuard Associates,Logistics,Noida,AutoCAD|C|C++|Excel|Power BI|SQL,3 months,4500,Private,Hybrid
+80,Data Analyst Intern,PolicyWorks India,Data Analytics,Pune,C|GST|Illustrator|Power BI|R|Research|SQL,1 month,12000,NGO,Hybrid
+81,Clinical Research Intern,LexGuard Associates,Healthcare,Lucknow,C++|JavaScript|Research|Typing,1 month,13000,NGO,Online
+82,Business Intelligence Intern,Innovate Labs,Data Analytics,Chandigarh,AutoCAD|Excel|HTML|QGIS|React|SQL|UI/UX,2 months,10000,PSU,Hybrid
+83,Agri Research Intern,Innovate Labs,Agriculture,Ranchi,CSS|Digital Marketing|Excel|GST|Java|Linux|SPSS|Tableau,1 month,12000,Private,Hybrid
+84,Digital Governance Intern,MapCraft GIS,E-Governance,Mysuru,C|Excel|Figma|Illustrator|Java|Python,2 months,10000,Govt,Online
+85,Legal Research Intern,CivicLink Foundation,Law,Jaipur,AutoCAD|Content Writing|Digital Marketing|GST|Research,3 months,4000,PSU,Offline
+86,Compliance Intern,TourEase Travels,Law,Kolkata,Content Writing|GST|JavaScript|Linux|Research|Tally,3 months,6000,PSU,Online
+87,Healthcare Data Intern,DataPulse Analytics,Healthcare,Guwahati,Canva|JavaScript|SPSS,2 months,10000,Private,Online
+88,Sustainability Intern,TourEase Travels,Renewable Energy,Kochi,AutoCAD|Data Entry|Digital Marketing|Excel|Power BI|QGIS|Research,2 months,7500,PSU,Online
+89,Academic Research Intern,BrightPath Designs,Education,Bengaluru,Excel|Figma|HTML|Python|QGIS|R|Research,1 month,3000,NGO,Hybrid
+90,Agri Research Intern,CivicLink Foundation,Agriculture,Bengaluru,AutoCAD|C++|Content Writing|Data Entry|HTML|JavaScript|Research|SPSS,2 months,6000,PSU,Hybrid
+91,Supply Chain Intern,HealthSphere Analytics,Logistics,Chandigarh,Canva|Excel|Figma|Networking|Power BI|SQL,1 month,8000,Private,Hybrid
+92,Security Analyst Intern,SecureNet Systems,Cybersecurity,Indore,Linux|Networking|Python|QGIS|Tally,2 months,11500,NGO,Online
+93,Cyber Risk Intern,DataPulse Analytics,Cybersecurity,Visakhapatnam,Digital Marketing|Linux|Networking|Photoshop|Python|SQL,2 months,6500,Govt,Hybrid
+94,Business Intelligence Intern,PolicyWorks India,Data Analytics,Ranchi,HTML|Python|Tally,1 month,9000,PSU,Hybrid
+95,Software Intern,Insight Finance Group,IT,Thiruvananthapuram,AutoCAD|Canva|Digital Marketing|Linux|Photoshop|Power BI|Python,6 months,10000,Govt,Online
+96,Governance Analyst Intern,PolicyWorks India,Public Policy,Indore,Content Writing|Python|R|SEO|SPSS,1 month,15000,PSU,Offline
+97,Sustainability Intern,MapCraft GIS,Renewable Energy,Mumbai,ArcGIS|AutoCAD|Canva|Data Entry|Digital Marketing|Excel|R|SEO,1 month,7000,Private,Offline
+98,Spatial Data Intern,HealthSphere Analytics,GIS,Noida,ArcGIS|C|Content Writing|Illustrator|QGIS|R|SolidWorks|UI/UX,1 month,6500,NGO,Online
+99,Social Media Intern,SecureNet Systems,Media,Mysuru,CSS|Canva|Content Writing|Digital Marketing|Excel|Java|Networking,2 months,3000,Startup,Online
+100,Product Design Intern,TourEase Travels,Design,Delhi,ArcGIS|CSS|Canva|Figma|Illustrator|Photoshop|UI/UX,3 months,5000,PSU,Offline
+101,Graphic Design Intern,Spectrum Media House,Design,Hyderabad,Canva|Data Entry|Excel|Figma|Java|Photoshop|SEO|UI/UX,3 months,13500,NGO,Hybrid
+102,Civic Tech Intern,LexGuard Associates,E-Governance,Remote,AutoCAD|Excel|JavaScript|Linux|Python|Research|SPSS|SQL,6 months,4500,NGO,Online
+103,Governance Analyst Intern,MapCraft GIS,Public Policy,Gurugram,Content Writing|Excel|GST|R|Research|Tableau|Tally|Typing,1 month,11500,NGO,Hybrid
+104,IT Support Intern,CivicLink Foundation,IT,Chandigarh,ArcGIS|C|CSS|GST|SQL,1 month,15000,NGO,Hybrid
+105,Travel Operations Intern,Skyline Innovations,Tourism,Guwahati,CSS|Digital Marketing|GST|Networking|Research|Tableau|Tally,2 months,9500,Private,Online
+106,Finance Analyst Intern,AgriNova Collective,Finance,Patna,Content Writing|Python|Research|SPSS|SQL,1 month,6500,PSU,Online
+107,Business Intelligence Intern,Insight Finance Group,Data Analytics,Patna,ArcGIS|Content Writing|HTML|Networking|Python|R,3 months,14000,PSU,Offline
+108,Cyber Risk Intern,EcoVision Energy,Cybersecurity,Bengaluru,CSS|Digital Marketing|Linux|Networking|Python|R|Tableau,1 month,13500,Govt,Hybrid
+109,Spatial Data Intern,Innovate Labs,GIS,Jaipur,ArcGIS|Excel|HTML|Illustrator|Python|SPSS|UI/UX,1 month,7000,Private,Hybrid
+110,Agri Research Intern,SecureNet Systems,Agriculture,Pune,CSS|Data Entry|Excel|React|SPSS|SQL|Tally,6 months,5000,NGO,Offline
+111,Supply Chain Intern,Skyline Innovations,Logistics,Nagpur,Data Entry|Excel|GST|Illustrator|Power BI|Python,1 month,14500,PSU,Hybrid
+112,Legal Research Intern,BrightPath Designs,Law,Remote,AutoCAD|Content Writing|Photoshop|Research|Tableau,6 months,13000,NGO,Online
+113,Civic Tech Intern,Skyline Innovations,E-Governance,Ahmedabad,ArcGIS|C|Java|Python,2 months,11500,PSU,Offline
+114,Field Operations Intern,Spectrum Media House,Agriculture,Jaipur,Data Entry|Java|Linux|R|Research|SPSS,6 months,12500,NGO,Hybrid
+115,Field Operations Intern,EcoVision Energy,Agriculture,Jaipur,Data Entry|Excel|Illustrator|Photoshop|Python|React|SPSS|Tally,1 month,12000,PSU,Hybrid
+116,Investment Research Intern,CivicLink Foundation,Finance,Jaipur,C|C++|Networking|Power BI|Python|R,6 months,7000,Private,Online
+117,Policy Research Intern,TourEase Travels,Public Policy,Chennai,Content Writing|Excel|HTML|Linux|Networking|Photoshop|SEO,2 months,5000,NGO,Offline
+118,Security Analyst Intern,AgriNova Collective,Cybersecurity,Delhi,AutoCAD|Content Writing|Linux|Networking|Python|React|Typing,2 months,10000,PSU,Offline
+119,IT Support Intern,BrightPath Designs,IT,Guwahati,Figma|GST|HTML|React|Research|SQL,6 months,13500,NGO,Offline
+120,Agri Research Intern,BrightPath Designs,Agriculture,Nagpur,CSS|Canva|Excel|Networking|Research|SPSS,1 month,14500,Private,Hybrid
+121,Data Analyst Intern,AgriNova Collective,Data Analytics,Noida,Illustrator|Photoshop|Power BI|Python|React|SEO|SQL,1 month,5500,Private,Offline
+122,Learning Design Intern,HealthSphere Analytics,Education,Chandigarh,Canva|Content Writing|Excel|Networking|Research|SolidWorks|UI/UX,6 months,14000,Govt,Hybrid
+123,Operations Intern,PolicyWorks India,Logistics,Kolkata,Data Entry|Excel|Photoshop|Python|SolidWorks,6 months,10500,NGO,Hybrid
+124,Tour Planning Intern,SecureNet Systems,Tourism,Nagpur,C++|Content Writing|Data Entry|Digital Marketing|Power BI|SPSS|SQL|UI/UX,1 month,8500,NGO,Online
+125,IT Support Intern,AgriNova Collective,IT,Ahmedabad,ArcGIS|C|Linux|Research|SQL|UI/UX,2 months,11000,Private,Hybrid
+126,Travel Operations Intern,Spectrum Media House,Tourism,Bengaluru,C++|Digital Marketing|Excel|React|SPSS|Tableau,2 months,7000,PSU,Online
+127,Compliance Intern,Innovate Labs,Law,Noida,Canva|Content Writing|JavaScript|Research|SolidWorks|Typing,6 months,3500,Private,Offline
+128,Investment Research Intern,FutureWave Tech,Finance,Surat,C|Content Writing|Figma|Python|React|SQL,3 months,10000,Govt,Offline
+129,Business Intelligence Intern,MapCraft GIS,Data Analytics,Guwahati,C|Digital Marketing|Power BI|SQL|Tableau,3 months,4000,Startup,Hybrid
+130,Business Intelligence Intern,Skyline Innovations,Data Analytics,Bengaluru,ArcGIS|C|GST|Linux|Power BI|Python|Research|SQL,3 months,12500,Govt,Offline
+131,Investment Research Intern,UrbanRise Solutions,Finance,Delhi,ArcGIS|Networking|Python|Tally|Typing,2 months,6000,Private,Offline
+132,Operations Intern,CivicLink Foundation,Logistics,Lucknow,AutoCAD|Excel|GST|JavaScript|Power BI|SQL|Tally,3 months,4500,PSU,Online
+133,Policy Research Intern,UrbanRise Solutions,Public Policy,Surat,Excel|Figma|Python|React|SEO|SQL|Typing,1 month,11000,Private,Online
+134,Legal Research Intern,PolicyWorks India,Law,Delhi,ArcGIS|Content Writing|Digital Marketing|JavaScript|React|SQL|Typing,3 months,9500,PSU,Online
+135,Legal Research Intern,SecureNet Systems,Law,Noida,Content Writing|HTML|Research|SPSS|SQL|Typing,2 months,12500,Private,Online
+136,Cyber Risk Intern,NextGen Logistics,Cybersecurity,Hyderabad,Figma|Linux|Research|SEO|SolidWorks|Tableau|Typing,2 months,15000,Startup,Hybrid
+137,Tour Planning Intern,EduBridge Alliance,Tourism,Pune,C++|Content Writing|Digital Marketing|Excel|R|SEO|UI/UX,3 months,8000,Private,Hybrid
+138,Content Strategist Intern,Spectrum Media House,Media,Bhopal,Canva|Figma|SolidWorks|Tableau|Tally,3 months,14500,Govt,Offline
+139,Field Operations Intern,GreenGrowth Initiatives,Agriculture,Chandigarh,ArcGIS|Excel|HTML|Photoshop|Research|SPSS,3 months,13500,Private,Hybrid
+140,Operations Intern,PolicyWorks India,Logistics,Indore,AutoCAD|C|CSS|Excel|JavaScript|Power BI|SQL,2 months,10500,NGO,Online
+141,Graphic Design Intern,EduBridge Alliance,Design,Jaipur,Figma|Illustrator|Java|Photoshop|Power BI|Research|Tableau|UI/UX,2 months,8000,NGO,Online
+142,Social Media Intern,AgriNova Collective,Media,Chandigarh,C|Data Entry|Power BI|SEO|Typing,3 months,12000,Govt,Offline
+143,Spatial Data Intern,PolicyWorks India,GIS,Kochi,ArcGIS|C|C++|QGIS|UI/UX,3 months,7000,PSU,Hybrid
+144,Supply Chain Intern,BrightPath Designs,Logistics,Jaipur,ArcGIS|C++|Excel|Linux|Photoshop|SQL|Tally|Typing,1 month,14000,Private,Online
+145,IT Support Intern,PolicyWorks India,IT,Lucknow,Java|Linux|Python|QGIS|React|Tableau|Typing,2 months,6500,NGO,Offline
+146,Content Strategist Intern,PolicyWorks India,Media,Raipur,Content Writing|Figma|Illustrator|Linux|Networking|React|Research|SEO,1 month,5000,Private,Online
+147,Agri Research Intern,UrbanRise Solutions,Agriculture,Noida,AutoCAD|Networking|Power BI|QGIS|Research|SolidWorks,2 months,9500,Govt,Hybrid
+148,Graphic Design Intern,HealthSphere Analytics,Design,Ranchi,GST|Networking|SolidWorks|UI/UX,6 months,11000,Private,Offline
+149,Investment Research Intern,NextGen Logistics,Finance,Gurugram,AutoCAD|C++|JavaScript|Python|QGIS|Research|SQL,2 months,7000,NGO,Hybrid
+150,Content Strategist Intern,CivicLink Foundation,Media,Indore,ArcGIS|Content Writing|Digital Marketing|React|SQL|Typing,2 months,12500,Private,Hybrid
+151,Supply Chain Intern,NextGen Logistics,Logistics,Indore,AutoCAD|Canva|Java|JavaScript|Networking|SQL,3 months,5500,PSU,Offline
+152,Cyber Risk Intern,UrbanRise Solutions,Cybersecurity,Mysuru,Data Entry|Digital Marketing|Linux|Networking|Photoshop|Python,1 month,5500,Private,Hybrid
+153,Full Stack Intern,CivicLink Foundation,IT,Lucknow,Data Entry|HTML|JavaScript|Python|QGIS|SPSS,1 month,13500,Govt,Offline
+154,Software Intern,CivicLink Foundation,IT,Bengaluru,AutoCAD|HTML|Power BI|Python,1 month,13500,Private,Hybrid
+155,Legal Research Intern,NextGen Logistics,Law,Delhi,Content Writing|Illustrator|Linux|Photoshop|React|SPSS,2 months,12000,Private,Hybrid
+156,Civic Tech Intern,DataPulse Analytics,E-Governance,Gurugram,AutoCAD|Excel|GST|JavaScript|SQL,2 months,9000,PSU,Hybrid
+157,Policy Research Intern,TourEase Travels,Public Policy,Mumbai,ArcGIS|Canva|Content Writing|Networking|Research|UI/UX,3 months,3000,Startup,Online
+158,Sustainability Intern,PolicyWorks India,Renewable Energy,Patna,Data Entry|Excel|Java|QGIS|SPSS|SQL|Typing,3 months,9500,Private,Hybrid
+159,Solar Projects Intern,BrightPath Designs,Renewable Energy,Chandigarh,AutoCAD|Excel|Figma|JavaScript|Photoshop|Research,6 months,4500,Govt,Hybrid
+160,Graphic Design Intern,DataPulse Analytics,Design,Noida,Canva|Illustrator|React|Research|SEO|SolidWorks|UI/UX,2 months,11500,Private,Offline
+161,Digital Governance Intern,Insight Finance Group,E-Governance,Lucknow,ArcGIS|Excel|GST|Python|SEO|SQL,6 months,6500,Startup,Online
+162,Cyber Risk Intern,UrbanRise Solutions,Cybersecurity,Nagpur,ArcGIS|AutoCAD|Linux|Python|Tableau|Tally,2 months,6000,NGO,Offline
+163,Full Stack Intern,GreenGrowth Initiatives,IT,Visakhapatnam,CSS|HTML|Java|Python|SolidWorks|UI/UX,3 months,13000,PSU,Hybrid
+164,Healthcare Data Intern,LexGuard Associates,Healthcare,Mysuru,Excel|Networking|Photoshop|Research|SEO|SPSS,2 months,9000,Govt,Online
+165,Academic Research Intern,DataPulse Analytics,Education,Remote,Content Writing|Excel|Research|Typing,2 months,3500,Govt,Online
+166,Solar Projects Intern,Innovate Labs,Renewable Energy,Pune,AutoCAD|C++|Digital Marketing|JavaScript,3 months,10500,Startup,Hybrid
+167,Solar Projects Intern,NextGen Logistics,Renewable Energy,Hyderabad,C|Canva|Excel|Java|QGIS|R|Research|UI/UX,1 month,11000,Private,Online
+168,Social Media Intern,TourEase Travels,Media,Mysuru,Canva|Content Writing|Excel|Java|Photoshop|SEO,3 months,9000,Startup,Offline
+169,Security Analyst Intern,Skyline Innovations,Cybersecurity,Lucknow,Figma|Java|Linux|Networking|Power BI|Research|SEO|SQL,1 month,12500,Startup,Offline
+170,Compliance Intern,Spectrum Media House,Law,Thiruvananthapuram,ArcGIS|Figma|Power BI|Research,6 months,12000,Private,Offline
+171,Supply Chain Intern,AgriNova Collective,Logistics,Mumbai,Excel|Power BI|Python|SQL|Tableau|Typing,3 months,7500,PSU,Offline
+172,Clinical Research Intern,Insight Finance Group,Healthcare,Lucknow,Excel|HTML|QGIS|R,2 months,8000,Startup,Online
+173,Spatial Data Intern,EcoVision Energy,GIS,Gurugram,ArcGIS|CSS|Canva|Excel|Networking|QGIS|React|Research,3 months,7500,Private,Online
+174,Data Analyst Intern,EcoVision Energy,Data Analytics,Patna,HTML|Illustrator|Photoshop|Power BI|Python|React|SQL,6 months,14500,Govt,Hybrid
+175,Tour Planning Intern,DataPulse Analytics,Tourism,Indore,AutoCAD|Content Writing|Data Entry|Excel|R,1 month,14000,Govt,Hybrid
+176,Agri Research Intern,SecureNet Systems,Agriculture,Remote,C|Canva|Figma|Java|React|Research,2 months,6500,Startup,Online
+177,Data Analyst Intern,LexGuard Associates,Data Analytics,Nagpur,Data Entry|Java|Power BI|React|SQL|Tableau|Tally,1 month,9000,PSU,Hybrid
+178,Civic Tech Intern,HealthSphere Analytics,E-Governance,Jaipur,CSS|Content Writing|Java|Photoshop|Power BI|Research|SQL,2 months,3500,Private,Online
+179,Legal Research Intern,TourEase Travels,Law,Nagpur,Canva|Illustrator|Java|Research|Typing|UI/UX,2 months,13000,PSU,Hybrid
+180,Graphic Design Intern,HealthSphere Analytics,Design,Kochi,AutoCAD|SPSS|SQL|UI/UX,3 months,10500,Private,Offline
+181,Sustainability Intern,FutureWave Tech,Renewable Energy,Jaipur,ArcGIS|Excel|HTML|Linux|Photoshop|Research|SQL,2 months,5000,PSU,Online
+182,Sustainability Intern,MapCraft GIS,Renewable Energy,Ranchi,ArcGIS|HTML|Research|Typing,1 month,14500,Govt,Online
+183,Travel Operations Intern,MapCraft GIS,Tourism,Lucknow,C|C++|Canva|Content Writing|Excel|SolidWorks|Tally|UI/UX,3 months,7000,Govt,Offline
+184,Product Design Intern,UrbanRise Solutions,Design,Remote,GST|HTML|Illustrator|Photoshop,3 months,7500,PSU,Offline
+185,Spatial Data Intern,TourEase Travels,GIS,Chandigarh,ArcGIS|Excel|Power BI|Research|Tally,3 months,6000,Private,Online
+186,Compliance Intern,CivicLink Foundation,Law,Visakhapatnam,Canva|Content Writing|Excel|Figma|Research|SPSS,6 months,4000,Govt,Online
+187,Digital Governance Intern,EduBridge Alliance,E-Governance,Kolkata,Canva|Digital Marketing|Networking|Power BI|Python|QGIS|Research|SQL,3 months,13000,PSU,Hybrid
+188,Academic Research Intern,MapCraft GIS,Education,Bhopal,Content Writing|Excel|Figma|Illustrator|Java|Power BI|SEO|Tableau,6 months,5500,NGO,Offline
+189,Graphic Design Intern (2),EduBridge Alliance,Design,Jaipur,ArcGIS|Canva|Content Writing|Linux|QGIS|SPSS|UI/UX,2 months,14500,Private,Hybrid
+190,Governance Analyst Intern,TourEase Travels,Public Policy,Nagpur,AutoCAD|Content Writing|Excel|GST|Illustrator|Photoshop|Python|Research|Tableau,2 months,6500,Govt,Offline
+191,Graphic Design Intern,SecureNet Systems,Design,Lucknow,C|Canva|Content Writing|Digital Marketing|Illustrator|Power BI|React|UI/UX,3 months,7000,NGO,Online
+192,Healthcare Data Intern,PolicyWorks India,Healthcare,Gurugram,C|Excel|HTML|Python,3 months,5000,NGO,Online
+193,Solar Projects Intern,HealthSphere Analytics,Renewable Energy,Bengaluru,ArcGIS|AutoCAD|Excel|Power BI|Python|Research|SolidWorks,3 months,9000,NGO,Offline
+194,Investment Research Intern,NextGen Logistics,Finance,Jaipur,AutoCAD|C|Excel|Java|Photoshop|SQL|Tableau,2 months,8000,Startup,Offline
+195,Finance Analyst Intern,Spectrum Media House,Finance,Nagpur,C++|GST|Java|SPSS|Tally|UI/UX,6 months,5500,Startup,Hybrid
+196,Security Analyst Intern,CivicLink Foundation,Cybersecurity,Gurugram,C++|Content Writing|Figma|Illustrator|Linux|QGIS,2 months,14500,Private,Offline
+197,Product Design Intern,BrightPath Designs,Design,Chennai,ArcGIS|CSS|Canva|Illustrator|Photoshop|Python|Tableau,2 months,9500,Govt,Hybrid
+198,Tour Planning Intern,NextGen Logistics,Tourism,Ranchi,CSS|Digital Marketing|JavaScript|SolidWorks,6 months,11000,Govt,Online
+199,Policy Research Intern,TourEase Travels,Public Policy,Remote,C|Content Writing|Excel|Illustrator|R|React|Research,2 months,3000,PSU,Online
+200,IT Support Intern,UrbanRise Solutions,IT,Mysuru,Canva|JavaScript|Linux|Networking|Python|SPSS|SQL|SolidWorks,1 month,4500,PSU,Hybrid
+201,Graphic Design Intern,MapCraft GIS,Design,Mumbai,GST|HTML|Illustrator|Photoshop|SEO|UI/UX,6 months,5500,Govt,Offline
+202,Governance Analyst Intern,NextGen Logistics,Public Policy,Mumbai,AutoCAD|Canva|Content Writing|Digital Marketing|Excel|Research|SQL|Tally,6 months,6500,Startup,Online
+203,Social Media Intern,BrightPath Designs,Media,Kolkata,ArcGIS|AutoCAD|Data Entry|Research|SEO|UI/UX,1 month,3000,Govt,Online
+204,Operations Intern,Innovate Labs,Logistics,Gurugram,Excel|Java|Linux|Power BI|Python|SEO|SQL,2 months,13500,Startup,Offline
+205,Sustainability Intern,BrightPath Designs,Renewable Energy,Kolkata,C|GST|JavaScript|Research|SEO|Tableau,3 months,9500,NGO,Hybrid
+206,Supply Chain Intern,PolicyWorks India,Logistics,Visakhapatnam,ArcGIS|Excel|HTML|Photoshop|Power BI|SQL|UI/UX,1 month,6000,Startup,Online
+207,Operations Intern,AgriNova Collective,Logistics,Pune,Data Entry|Figma|Linux|Power BI|React|SPSS,6 months,15000,NGO,Hybrid
+208,Social Media Intern,HealthSphere Analytics,Media,Kochi,Content Writing|Digital Marketing|Excel|Figma|Python|R|SEO,6 months,5500,Startup,Online
+209,Agri Research Intern,Skyline Innovations,Agriculture,Bengaluru,CSS|Java|QGIS|SPSS|UI/UX,3 months,12500,Govt,Online
+210,Cyber Risk Intern,NextGen Logistics,Cybersecurity,Pune,Linux|Networking|Python|R|Research|Tableau,1 month,14000,Private,Hybrid
+211,Investment Research Intern,AgriNova Collective,Finance,Mumbai,C++|Excel|HTML|Java|Python|QGIS|SolidWorks|Typing,6 months,4500,Private,Offline
+212,Field Operations Intern,SecureNet Systems,Agriculture,Mumbai,AutoCAD|Data Entry|Excel|Illustrator|JavaScript|Power BI|SPSS,1 month,8000,Startup,Offline
+213,Academic Research Intern,LexGuard Associates,Education,Jaipur,Canva|Content Writing|Excel|Figma|HTML|Research|Tableau|Tally,3 months,12000,NGO,Online
+214,Solar Projects Intern,SecureNet Systems,Renewable Energy,Thiruvananthapuram,AutoCAD|CSS|Data Entry|Digital Marketing|Excel|Figma|Research|SolidWorks|Tableau,3 months,12500,Private,Offline
+215,Agri Research Intern,NextGen Logistics,Agriculture,Remote,C|CSS|Data Entry|Figma|Networking|Python|SPSS,3 months,13500,Private,Offline
+216,Agri Research Intern,SecureNet Systems,Agriculture,Patna,C|Content Writing|HTML|Power BI|SPSS,6 months,14500,Startup,Online
+217,Field Operations Intern,LexGuard Associates,Agriculture,Ahmedabad,AutoCAD|Excel|GST|SPSS|Tally,1 month,14500,Govt,Offline
+218,Solar Projects Intern,LexGuard Associates,Renewable Energy,Hyderabad,AutoCAD|C++|Excel|Java|Python|R|Research|SQL,2 months,14000,Private,Offline
+219,Spatial Data Intern,FutureWave Tech,GIS,Chennai,ArcGIS|Canva|Excel|QGIS|Tally,1 month,14000,Startup,Offline
+220,Data Analyst Intern,GreenGrowth Initiatives,Data Analytics,Kolkata,AutoCAD|CSS|Canva|Networking|Power BI,6 months,6000,Private,Hybrid
+221,Academic Research Intern,TourEase Travels,Education,Patna,Content Writing|Illustrator|Java|Python|Research|SolidWorks|Tally,2 months,5000,Private,Offline
+222,Agri Research Intern (2),SecureNet Systems,Agriculture,Remote,Data Entry|Excel|Figma|Java|QGIS|Research|SolidWorks,3 months,7500,Startup,Online
+223,Product Design Intern,CivicLink Foundation,Design,Thiruvananthapuram,AutoCAD|Canva|Figma|JavaScript|R|Tableau,3 months,13000,Private,Offline
+224,Solar Projects Intern,CivicLink Foundation,Renewable Energy,Bengaluru,AutoCAD|Excel|Networking|SolidWorks|Tally,1 month,10500,PSU,Offline
+225,Travel Operations Intern,NextGen Logistics,Tourism,Mumbai,C++|Content Writing|Digital Marketing|Excel|Illustrator|Java|Networking|QGIS|UI/UX,2 months,15000,NGO,Offline
+226,Full Stack Intern,DataPulse Analytics,IT,Pune,Canva|Digital Marketing|Linux|SolidWorks|Tally,2 months,10500,Private,Hybrid
+227,Product Design Intern,DataPulse Analytics,Design,Nagpur,C|Canva|Figma|Research|Tableau,6 months,9000,Private,Online
+228,Healthcare Data Intern,NextGen Logistics,Healthcare,Ranchi,C|Research|SEO|Typing,6 months,7500,Startup,Offline
+229,Data Analyst Intern,AgriNova Collective,Data Analytics,Hyderabad,AutoCAD|QGIS|R|SQL|Tableau,1 month,12000,NGO,Online
+230,Academic Research Intern,BrightPath Designs,Education,Pune,Content Writing|Excel|Photoshop|Research|SQL,1 month,4500,Govt,Hybrid
+231,Compliance Intern,Skyline Innovations,Law,Gurugram,Content Writing|Tally|Typing|UI/UX,1 month,8000,Govt,Hybrid
+232,Finance Analyst Intern,EduBridge Alliance,Finance,Hyderabad,Excel|GST|React|SQL|Tally|Typing,1 month,13500,Startup,Online
+233,Policy Research Intern,CivicLink Foundation,Public Policy,Noida,Content Writing|Excel|Linux|Python|SQL|Typing,2 months,13500,Private,Offline
+234,Clinical Research Intern,DataPulse Analytics,Healthcare,Hyderabad,Excel|JavaScript|Python|SPSS|SQL|SolidWorks,3 months,9500,Private,Hybrid
+235,Finance Analyst Intern,Insight Finance Group,Finance,Guwahati,ArcGIS|AutoCAD|Networking|Power BI|Research|Tally|Typing,1 month,4000,Private,Offline
+236,Sustainability Intern,FutureWave Tech,Renewable Energy,Lucknow,ArcGIS|AutoCAD|C++|CSS|Content Writing|Excel|Java|Research,6 months,8000,Startup,Online
+237,Civic Tech Intern,MapCraft GIS,E-Governance,Surat,Digital Marketing|Excel|Illustrator|Java|R|SQL,2 months,7000,NGO,Hybrid
+238,Solar Projects Intern,LexGuard Associates,Renewable Energy,Patna,AutoCAD|Canva|Digital Marketing|Excel|JavaScript|Linux|Research|SQL,1 month,9500,Private,Online
+239,Social Media Intern,NextGen Logistics,Media,Ranchi,Canva|Excel|R|Research|SEO|Tally,6 months,6500,NGO,Hybrid
+240,Security Analyst Intern,AgriNova Collective,Cybersecurity,Pune,Canva|Illustrator|Networking|Photoshop|Python|Research|SPSS|Typing,6 months,12000,Govt,Hybrid
+241,Operations Intern,HealthSphere Analytics,Logistics,Indore,ArcGIS|GST|HTML|Research|SQL,2 months,13500,Govt,Hybrid
+242,Operations Intern,SecureNet Systems,Logistics,Ahmedabad,C|CSS|Data Entry|Excel|Networking|Photoshop|Power BI|SQL,2 months,3000,Private,Hybrid
+243,Travel Operations Intern,AgriNova Collective,Tourism,Thiruvananthapuram,Content Writing|Data Entry|Digital Marketing|HTML|Power BI|Python|Typing,6 months,14500,NGO,Offline
+244,Academic Research Intern,NextGen Logistics,Education,Remote,Content Writing|Data Entry|Linux|Networking|React,3 months,6500,Private,Offline
+245,Agri Research Intern,UrbanRise Solutions,Agriculture,Patna,Digital Marketing|Excel|Python|SEO|SPSS|SQL|Tally,6 months,11500,PSU,Offline
+246,Solar Projects Intern,TourEase Travels,Renewable Energy,Lucknow,CSS|Digital Marketing|Excel|HTML|QGIS|SolidWorks|Typing,3 months,6500,Private,Online
+247,Product Design Intern,NextGen Logistics,Design,Noida,Excel|Figma|HTML|React|SEO|SolidWorks,2 months,4500,Private,Hybrid
+248,Clinical Research Intern,AgriNova Collective,Healthcare,Remote,AutoCAD|C|Excel|HTML|Illustrator|Power BI|Research|SPSS,2 months,11000,PSU,Hybrid
+249,Healthcare Data Intern,Insight Finance Group,Healthcare,Guwahati,Canva|Excel|Python|Research|SQL|SolidWorks|Typing,1 month,6000,Govt,Offline
+250,IT Support Intern,FutureWave Tech,IT,Jaipur,Figma|Illustrator|Java|SQL,1 month,4500,PSU,Offline
+251,Investment Research Intern,CivicLink Foundation,Finance,Ahmedabad,Data Entry|Digital Marketing|Excel|React|SQL,1 month,7000,Govt,Hybrid
+252,Full Stack Intern,EduBridge Alliance,IT,Jaipur,ArcGIS|CSS|Figma|Java|JavaScript|React,1 month,9000,NGO,Offline
+253,Sustainability Intern,CivicLink Foundation,Renewable Energy,Mysuru,AutoCAD|Canva|Data Entry|Excel|JavaScript|Photoshop|Research|SolidWorks|UI/UX,1 month,7500,NGO,Online
+254,Product Design Intern,GreenGrowth Initiatives,Design,Noida,Data Entry|SPSS|Tableau|UI/UX,6 months,8000,PSU,Online
+255,Supply Chain Intern,Spectrum Media House,Logistics,Mysuru,Java|Power BI|Python|SEO|SQL,1 month,13000,Startup,Hybrid
+256,Legal Research Intern,Innovate Labs,Law,Visakhapatnam,C|Content Writing|QGIS|React|Research,6 months,15000,Private,Hybrid
+257,Governance Analyst Intern,FutureWave Tech,Public Policy,Chandigarh,C|Content Writing|Excel|Figma|JavaScript|QGIS|Research|SPSS,2 months,5000,Govt,Hybrid
+258,GIS Mapping Intern,Innovate Labs,GIS,Ahmedabad,Excel|GST|Linux|Photoshop|QGIS|Research,6 months,5500,Govt,Hybrid
+259,Clinical Research Intern,PolicyWorks India,Healthcare,Bengaluru,Excel|Figma|JavaScript|Networking|Python|SPSS|UI/UX,3 months,10000,NGO,Hybrid
+260,Finance Analyst Intern,EduBridge Alliance,Finance,Noida,Excel|R|Tally|Typing,3 months,9500,PSU,Hybrid
+261,Finance Analyst Intern,PolicyWorks India,Finance,Indore,C++|CSS|Content Writing|Excel|Java|R|SQL|Tally,3 months,14500,Private,Hybrid
+262,Tour Planning Intern,Innovate Labs,Tourism,Kolkata,Canva|Content Writing|Digital Marketing|Excel|Python|UI/UX,6 months,13500,Govt,Offline
+263,Social Media Intern,NextGen Logistics,Media,Remote,Canva|Content Writing|Data Entry|JavaScript|Python|R|SEO|SolidWorks|Tableau,3 months,10500,Startup,Offline
+264,IT Support Intern,DataPulse Analytics,IT,Visakhapatnam,Digital Marketing|Java|JavaScript|SEO|SolidWorks|Tableau,1 month,7500,NGO,Online
+265,Spatial Data Intern,DataPulse Analytics,GIS,Chandigarh,Excel|GST|SPSS|Tally,1 month,4500,NGO,Online
+266,Spatial Data Intern,Skyline Innovations,GIS,Kolkata,ArcGIS|AutoCAD|Excel|HTML|Networking|QGIS,6 months,10000,Private,Hybrid
+267,Travel Operations Intern,Innovate Labs,Tourism,Visakhapatnam,Excel|HTML|Research|UI/UX,1 month,3000,Private,Online
+268,Social Media Intern,NextGen Logistics,Media,Lucknow,Content Writing|GST|HTML|Illustrator|Tally,2 months,5000,PSU,Offline
+269,Digital Governance Intern,SecureNet Systems,E-Governance,Remote,Data Entry|JavaScript|Networking|Python|SQL|Typing,2 months,4500,PSU,Hybrid
+270,Business Intelligence Intern,TourEase Travels,Data Analytics,Indore,Data Entry|Digital Marketing|Excel|SQL|Tally,3 months,11000,Private,Hybrid
+271,Digital Governance Intern,LexGuard Associates,E-Governance,Chandigarh,Excel|Figma|HTML|Illustrator|Python|R|Research,2 months,7000,Govt,Online
+272,Graphic Design Intern,DataPulse Analytics,Design,Ranchi,C++|CSS|Canva|Digital Marketing|Illustrator|React,1 month,5000,PSU,Offline
+273,Business Intelligence Intern,TourEase Travels,Data Analytics,Jaipur,Digital Marketing|Excel|Linux|Python|QGIS,3 months,8000,Private,Online
+274,Governance Analyst Intern,FutureWave Tech,Public Policy,Visakhapatnam,ArcGIS|C|CSS|Canva|Excel|JavaScript|Photoshop|Research,1 month,8500,Govt,Online
+275,Digital Governance Intern,CivicLink Foundation,E-Governance,Ahmedabad,AutoCAD|Data Entry|Figma|SQL|Tableau|Tally,6 months,12000,Startup,Offline
+276,Finance Analyst Intern,TourEase Travels,Finance,Indore,Canva|GST|HTML|Illustrator|Power BI|QGIS|Typing|UI/UX,1 month,6500,Govt,Hybrid
+277,Agri Research Intern,DataPulse Analytics,Agriculture,Bhopal,CSS|Content Writing|Excel|GST|HTML|Research|SPSS|UI/UX,3 months,4000,Govt,Online
+278,Tour Planning Intern,Insight Finance Group,Tourism,Thiruvananthapuram,C++|Content Writing|Data Entry|Digital Marketing|GST|Illustrator,6 months,14500,NGO,Offline
+279,Supply Chain Intern,EcoVision Energy,Logistics,Remote,Excel|Figma|HTML|Power BI|SQL|SolidWorks,2 months,6000,Govt,Offline
+280,Agri Research Intern (2),Skyline Innovations,Agriculture,Bengaluru,Data Entry|Excel|Figma|Power BI|Research,1 month,15000,Govt,Offline
+281,Compliance Intern,Skyline Innovations,Law,Bhopal,Canva|Content Writing|QGIS|Research|Tally,2 months,6500,Govt,Hybrid
+282,Supply Chain Intern,MapCraft GIS,Logistics,Raipur,Content Writing|Excel|GST|Power BI|React|SQL|Typing,2 months,3500,Govt,Offline
+283,Compliance Intern,Spectrum Media House,Law,Bengaluru,Canva|Content Writing|Photoshop|QGIS|Research,3 months,10500,Govt,Online
+284,Healthcare Data Intern,UrbanRise Solutions,Healthcare,Patna,Canva|Python|SEO|SPSS|Tally,1 month,11000,NGO,Online
+285,Travel Operations Intern,TourEase Travels,Tourism,Gurugram,CSS|Content Writing|Illustrator|Linux|Power BI|R|SolidWorks,3 months,4000,PSU,Online
+286,Finance Analyst Intern,NextGen Logistics,Finance,Patna,C++|Digital Marketing|Excel|Python,6 months,7500,NGO,Hybrid
+287,Graphic Design Intern,DataPulse Analytics,Design,Visakhapatnam,C++|Excel|Figma|Linux|Python|Tally|UI/UX,1 month,8000,Startup,Offline
+288,Security Analyst Intern,AgriNova Collective,Cybersecurity,Mumbai,CSS|Content Writing|GST|Linux|Networking|SPSS|SolidWorks|Tableau,3 months,5500,Startup,Online
+289,Civic Tech Intern,NextGen Logistics,E-Governance,Noida,ArcGIS|Digital Marketing|GST|JavaScript|Photoshop|Python,1 month,6500,Private,Online
+290,Finance Analyst Intern,Spectrum Media House,Finance,Lucknow,CSS|Digital Marketing|GST|Photoshop|Python,3 months,14500,Private,Hybrid
+291,Security Analyst Intern,Spectrum Media House,Cybersecurity,Ranchi,Digital Marketing|Linux|Networking|Photoshop|Power BI|Python|SolidWorks,1 month,6000,PSU,Online
+292,Academic Research Intern,MapCraft GIS,Education,Indore,ArcGIS|CSS|Excel|Figma|QGIS|SEO,6 months,12000,Private,Offline
+293,Full Stack Intern,Skyline Innovations,IT,Thiruvananthapuram,C|C++|Illustrator|JavaScript|Linux|Networking|React|UI/UX,2 months,4500,Private,Offline
+294,Social Media Intern,SecureNet Systems,Media,Gurugram,Digital Marketing|HTML|Java|QGIS|Research|SEO|SQL,3 months,5500,Startup,Hybrid
+295,Graphic Design Intern,LexGuard Associates,Design,Indore,Canva|Digital Marketing|Photoshop|QGIS|Research|SPSS|Tally|UI/UX,1 month,15000,Private,Hybrid
+296,Field Operations Intern,CivicLink Foundation,Agriculture,Bhopal,Excel|GST|JavaScript|Research|SPSS|Tableau,3 months,13500,NGO,Hybrid
+297,Finance Analyst Intern,FutureWave Tech,Finance,Bengaluru,GST|Java|JavaScript|QGIS|R|SolidWorks,3 months,11000,Private,Hybrid
+298,Healthcare Data Intern,HealthSphere Analytics,Healthcare,Visakhapatnam,C++|CSS|Canva|Content Writing|Excel|Figma|Photoshop|Python|SPSS,3 months,11500,Private,Online
+299,Product Design Intern,EcoVision Energy,Design,Kochi,C++|Canva|Excel|JavaScript|QGIS|R|UI/UX,3 months,10500,Govt,Online
+300,Academic Research Intern,LexGuard Associates,Education,Surat,C|CSS|Excel|HTML|Photoshop|Typing,3 months,12000,Govt,Online
+301,Governance Analyst Intern,HealthSphere Analytics,Public Policy,Jaipur,C|Canva|Content Writing|Excel|Typing,1 month,15000,NGO,Offline
+302,Cyber Risk Intern,DataPulse Analytics,Cybersecurity,Gurugram,Data Entry|Linux|Networking|Python|SQL|Tableau,3 months,13500,NGO,Offline
+303,Full Stack Intern,SecureNet Systems,IT,Surat,CSS|GST|Java|SPSS|SQL|SolidWorks|UI/UX,3 months,6500,NGO,Offline
+304,Tour Planning Intern,TourEase Travels,Tourism,Jaipur,Content Writing|Data Entry|Digital Marketing|Excel|JavaScript|Python|SPSS|Tableau|Typing,1 month,6500,Govt,Online
+305,Operations Intern,UrbanRise Solutions,Logistics,Lucknow,C++|Digital Marketing|GST|Illustrator|Power BI|Research,6 months,8500,PSU,Offline
+306,Full Stack Intern,LexGuard Associates,IT,Patna,AutoCAD|Excel|HTML|JavaScript|Research|Tableau,3 months,3000,Private,Offline
+307,Academic Research Intern,GreenGrowth Initiatives,Education,Pune,ArcGIS|Canva|Content Writing|Figma|Tally,3 months,9500,PSU,Hybrid
+308,Data Analyst Intern,Insight Finance Group,Data Analytics,Visakhapatnam,ArcGIS|Excel|Figma|Power BI|R|SQL,6 months,11500,Private,Online
+309,Finance Analyst Intern,CivicLink Foundation,Finance,Nagpur,JavaScript|Power BI|R|Research|SolidWorks|UI/UX,1 month,6000,Startup,Online
+310,Compliance Intern,EduBridge Alliance,Law,Thiruvananthapuram,Content Writing|JavaScript|Linux,2 months,8500,Govt,Online
+311,Investment Research Intern,FutureWave Tech,Finance,Lucknow,ArcGIS|Canva|Data Entry|Digital Marketing|Power BI|Python,6 months,10500,NGO,Offline
+312,Security Analyst Intern,SecureNet Systems,Cybersecurity,Chandigarh,C|Digital Marketing|Linux|Python|SolidWorks|Tableau,1 month,5000,Govt,Offline
+313,Investment Research Intern,PolicyWorks India,Finance,Chandigarh,C++|Content Writing|Data Entry|GST|R,6 months,12000,Startup,Offline
+314,Full Stack Intern,Innovate Labs,IT,Kochi,GST|Java|Networking|React,6 months,6500,PSU,Hybrid
+315,Solar Projects Intern,DataPulse Analytics,Renewable Energy,Lucknow,CSS|Photoshop|R|Research|SPSS,3 months,13000,NGO,Online
+316,Product Design Intern,TourEase Travels,Design,Kolkata,Content Writing|Java|JavaScript|Photoshop|SPSS|UI/UX,3 months,3500,Startup,Hybrid
+317,Product Design Intern,Skyline Innovations,Design,Thiruvananthapuram,Excel|Figma|HTML|Tableau|Tally,6 months,6000,Startup,Offline
+318,Compliance Intern,PolicyWorks India,Law,Visakhapatnam,Content Writing|HTML|Java|Networking|QGIS|React|Research,2 months,3000,Private,Hybrid
+319,Tour Planning Intern,Insight Finance Group,Tourism,Lucknow,Digital Marketing|Excel|JavaScript|Linux|Power BI,3 months,9500,Startup,Hybrid
+320,Legal Research Intern,HealthSphere Analytics,Law,Surat,Content Writing|Illustrator|Power BI|SEO|SolidWorks,1 month,6000,Private,Online
+321,Operations Intern,AgriNova Collective,Logistics,Nagpur,ArcGIS|HTML|Photoshop|Power BI|SQL|Tableau|UI/UX,1 month,6000,Startup,Online
+322,Civic Tech Intern,DataPulse Analytics,E-Governance,Bhopal,Data Entry|Excel|GST|Python|Research|SPSS|SQL|SolidWorks,1 month,7000,NGO,Online
+323,Field Operations Intern,Innovate Labs,Agriculture,Remote,Canva|Data Entry|Excel|Figma|GST|Illustrator|Java|SPSS|Tableau,6 months,11500,Private,Hybrid
+324,Supply Chain Intern,HealthSphere Analytics,Logistics,Visakhapatnam,ArcGIS|CSS|Canva|Excel|HTML|Java|Power BI|SQL|SolidWorks,6 months,15000,NGO,Hybrid
+325,Business Intelligence Intern,UrbanRise Solutions,Data Analytics,Patna,ArcGIS|JavaScript|Power BI|Python|Research|SolidWorks,6 months,10000,Startup,Offline
+326,Learning Design Intern,PolicyWorks India,Education,Visakhapatnam,ArcGIS|C|Excel|Research|Tally|Typing,3 months,6500,NGO,Hybrid
+327,Cyber Risk Intern,BrightPath Designs,Cybersecurity,Thiruvananthapuram,Digital Marketing|Excel|Figma|Linux|Typing|UI/UX,6 months,7000,Startup,Offline
+328,Operations Intern,Insight Finance Group,Logistics,Remote,ArcGIS|C++|Excel|JavaScript|Power BI|SQL|Tally,1 month,10000,Private,Offline
+329,Policy Research Intern,Innovate Labs,Public Policy,Bhopal,C++|Content Writing|Excel|SQL|Typing,1 month,8000,Startup,Offline
+330,Supply Chain Intern,Spectrum Media House,Logistics,Guwahati,ArcGIS|C|C++|CSS|Python|QGIS|SQL,6 months,12500,Govt,Offline
+331,Solar Projects Intern,LexGuard Associates,Renewable Energy,Chandigarh,AutoCAD|Excel|Java|Linux|R|Research|SPSS|Tableau,2 months,10000,Govt,Hybrid
+332,Software Intern,EduBridge Alliance,IT,Hyderabad,ArcGIS|Canva|Data Entry|QGIS|SQL,3 months,3500,Govt,Online
+333,GIS Mapping Intern,HealthSphere Analytics,GIS,Lucknow,C++|Excel|Linux|Python|SEO|SPSS|Tableau,2 months,3500,NGO,Online
+334,Tour Planning Intern,Innovate Labs,Tourism,Chennai,ArcGIS|Digital Marketing|Excel|HTML|R|Tableau|Typing,3 months,10000,Startup,Hybrid
+335,Content Strategist Intern,HealthSphere Analytics,Media,Lucknow,C++|Content Writing|Digital Marketing|Illustrator|Research|SEO|SQL|Tableau,2 months,12500,PSU,Offline
+336,Solar Projects Intern,Skyline Innovations,Renewable Energy,Bhopal,AutoCAD|C|Excel|GST|Research|SolidWorks|Tally,6 months,14500,Private,Hybrid
+337,Operations Intern,BrightPath Designs,Logistics,Chennai,Data Entry|Digital Marketing|Excel|JavaScript|Power BI|QGIS|SQL|SolidWorks,1 month,8000,Private,Hybrid
+338,Security Analyst Intern,Spectrum Media House,Cybersecurity,Kochi,CSS|Canva|JavaScript|Linux|Networking|Power BI|Python|Tally,6 months,15000,PSU,Offline
+339,Business Intelligence Intern,UrbanRise Solutions,Data Analytics,Delhi,C|Data Entry|Digital Marketing|Python|R|SQL,6 months,11000,Startup,Offline
+340,Investment Research Intern,LexGuard Associates,Finance,Kochi,Data Entry|Excel|Illustrator|Networking|Tableau,2 months,11000,Govt,Offline
+341,Content Strategist Intern,PolicyWorks India,Media,Jaipur,Canva|Content Writing|JavaScript|R|Research|SEO|Tally,2 months,4500,Startup,Online
+342,Social Media Intern,BrightPath Designs,Media,Ahmedabad,Content Writing|Data Entry|QGIS|R|SolidWorks|Tally,6 months,12000,Govt,Offline
+343,Operations Intern,Spectrum Media House,Logistics,Indore,C++|Digital Marketing|Illustrator|Power BI|Research,3 months,11000,PSU,Offline
+344,Product Design Intern,NextGen Logistics,Design,Lucknow,Figma|Illustrator|Photoshop|SolidWorks|UI/UX,6 months,3500,NGO,Hybrid
+345,Solar Projects Intern,HealthSphere Analytics,Renewable Energy,Thiruvananthapuram,AutoCAD|Excel|Figma|Networking|Research|Tally|Typing,3 months,9500,NGO,Offline
+346,Tour Planning Intern,HealthSphere Analytics,Tourism,Visakhapatnam,Content Writing|Data Entry|Digital Marketing|Excel|SEO|Tableau,6 months,6500,Startup,Online
+347,Business Intelligence Intern,NextGen Logistics,Data Analytics,Noida,AutoCAD|C|C++|SQL|Tableau|Typing,3 months,3000,Private,Hybrid
+348,IT Support Intern,DataPulse Analytics,IT,Mysuru,ArcGIS|C|JavaScript|Linux|React|Tally,3 months,7500,Govt,Offline
+349,Healthcare Data Intern,PolicyWorks India,Healthcare,Indore,CSS|Content Writing|Data Entry|Digital Marketing|GST|Python|Research|SPSS,1 month,10000,Private,Hybrid
+350,Operations Intern,FutureWave Tech,Logistics,Mumbai,Excel|Networking|Power BI|R|Typing,6 months,12000,Private,Offline
+351,Tour Planning Intern,NextGen Logistics,Tourism,Indore,Canva|Digital Marketing|Excel|HTML|Linux|Power BI,2 months,6000,Govt,Online
+352,Travel Operations Intern,EduBridge Alliance,Tourism,Visakhapatnam,Content Writing|Power BI|SolidWorks|UI/UX,3 months,3000,PSU,Online
+353,Content Strategist Intern,FutureWave Tech,Media,Hyderabad,C++|Canva|Linux|Research|SEO,2 months,10500,NGO,Online
+354,Travel Operations Intern,UrbanRise Solutions,Tourism,Guwahati,C++|Content Writing|Data Entry|Digital Marketing|Excel|Figma|GST|SEO|SPSS,3 months,9000,Startup,Offline
+355,Governance Analyst Intern,GreenGrowth Initiatives,Public Policy,Noida,AutoCAD|Canva|Content Writing|Data Entry|Excel|HTML|Research|UI/UX,3 months,14000,PSU,Offline
+356,IT Support Intern,EduBridge Alliance,IT,Remote,C|C++|CSS|Canva|Data Entry|Excel|JavaScript|React|UI/UX,1 month,4000,Startup,Hybrid
+357,Product Design Intern,FutureWave Tech,Design,Delhi,AutoCAD|Canva|Data Entry|Figma|Java|UI/UX,2 months,10500,Govt,Online
+358,Academic Research Intern,AgriNova Collective,Education,Pune,C|Content Writing|Excel|Research|SQL|Typing,6 months,13000,PSU,Hybrid
+359,Field Operations Intern,GreenGrowth Initiatives,Agriculture,Surat,HTML|React|SEO|SPSS|SolidWorks|Tally,2 months,9000,Govt,Offline
+360,Travel Operations Intern,Spectrum Media House,Tourism,Thiruvananthapuram,CSS|Canva|Content Writing|Digital Marketing|Excel|R|Research,3 months,12500,PSU,Offline
+361,Agri Research Intern,NextGen Logistics,Agriculture,Bhopal,C++|Excel|JavaScript|Networking|Python|Research,1 month,9000,NGO,Hybrid
+362,Solar Projects Intern,GreenGrowth Initiatives,Renewable Energy,Nagpur,AutoCAD|Content Writing|Excel|Illustrator|Python|UI/UX,6 months,9000,Govt,Offline
+363,Supply Chain Intern,LexGuard Associates,Logistics,Bengaluru,ArcGIS|Content Writing|Excel|Tableau|Typing,1 month,5500,PSU,Offline
+364,Spatial Data Intern,EcoVision Energy,GIS,Mysuru,ArcGIS|Photoshop|Power BI|QGIS|SPSS|Tableau|Typing,6 months,5500,PSU,Hybrid
+365,Data Analyst Intern,BrightPath Designs,Data Analytics,Pune,Excel|Figma|HTML|Photoshop|Python|R|SQL|Typing,3 months,9000,Private,Online
+366,Cyber Risk Intern,Innovate Labs,Cybersecurity,Pune,ArcGIS|Canva|Illustrator|Java|Linux|Networking|Python|R|Research,2 months,7500,PSU,Offline
+367,Policy Research Intern,PolicyWorks India,Public Policy,Raipur,Content Writing|HTML|JavaScript|React|SQL|SolidWorks,2 months,14000,Private,Online
+368,Graphic Design Intern,EduBridge Alliance,Design,Gurugram,Canva|Illustrator|Python|R|React,2 months,6000,NGO,Online
+369,Tour Planning Intern,EduBridge Alliance,Tourism,Visakhapatnam,Canva|Content Writing|Digital Marketing|Java|JavaScript|Power BI|SolidWorks|Tableau,3 months,10500,Govt,Hybrid
+370,Legal Research Intern,Insight Finance Group,Law,Noida,CSS|Content Writing|Excel|QGIS|SQL|Tally,3 months,10500,Govt,Hybrid
+371,Business Intelligence Intern,PolicyWorks India,Data Analytics,Ahmedabad,Java|JavaScript|Power BI|SPSS|SQL,3 months,5000,Startup,Online
+372,Travel Operations Intern,BrightPath Designs,Tourism,Delhi,Canva|Content Writing|Digital Marketing|Excel|GST|React|SEO,1 month,13000,PSU,Offline
+373,Spatial Data Intern,FutureWave Tech,GIS,Surat,ArcGIS|C++|Java|Linux,3 months,9500,Private,Offline
+374,Graphic Design Intern,LexGuard Associates,Design,Gurugram,C|CSS|Canva|Content Writing|Figma|Typing|UI/UX,1 month,13500,PSU,Online
+375,Field Operations Intern,Innovate Labs,Agriculture,Kochi,C++|Data Entry|Digital Marketing|Excel|Illustrator|SPSS|Tally|Typing,3 months,4500,PSU,Hybrid
+376,Operations Intern,Skyline Innovations,Logistics,Nagpur,AutoCAD|Canva|Excel|Power BI|Python|SQL,6 months,5000,Govt,Online
+377,Digital Governance Intern,EduBridge Alliance,E-Governance,Noida,ArcGIS|AutoCAD|Excel|Figma|JavaScript|Python|React|SQL|SolidWorks,3 months,10500,NGO,Online
+378,Social Media Intern,DataPulse Analytics,Media,Patna,Canva|Figma|QGIS|SEO|UI/UX,1 month,6500,Startup,Hybrid
+379,Digital Governance Intern,DataPulse Analytics,E-Governance,Kolkata,Canva|HTML|Java|Networking|Research|Tally,2 months,13500,NGO,Hybrid
+380,Solar Projects Intern,FutureWave Tech,Renewable Energy,Chandigarh,AutoCAD|C++|Excel|Figma|Research|Tally,1 month,13000,PSU,Offline
+381,Field Operations Intern,Skyline Innovations,Agriculture,Kolkata,Canva|Data Entry|SQL,3 months,14500,Private,Online
+382,Supply Chain Intern,GreenGrowth Initiatives,Logistics,Lucknow,AutoCAD|CSS|Canva|Excel|JavaScript|Power BI|R|SQL|UI/UX,1 month,10000,Private,Online
+383,Field Operations Intern,PolicyWorks India,Agriculture,Nagpur,CSS|Data Entry|Excel|JavaScript|Photoshop|Python|SolidWorks|Typing,6 months,15000,Govt,Hybrid
+384,Legal Research Intern,UrbanRise Solutions,Law,Raipur,Content Writing|Power BI|QGIS|Research,1 month,15000,NGO,Online
+385,Agri Research Intern,NextGen Logistics,Agriculture,Guwahati,CSS|HTML|Photoshop|SPSS,3 months,14500,Govt,Offline
+386,Supply Chain Intern,SecureNet Systems,Logistics,Raipur,Figma|Illustrator|Power BI|SPSS|SQL,6 months,8000,Govt,Offline
+387,Social Media Intern,UrbanRise Solutions,Media,Thiruvananthapuram,Canva|Content Writing|Data Entry|Excel|Illustrator|Linux|Photoshop|SEO|SPSS,6 months,7000,NGO,Hybrid
+388,Cyber Risk Intern,Spectrum Media House,Cybersecurity,Delhi,ArcGIS|Digital Marketing|Networking|Python|QGIS|React|Typing,3 months,11500,NGO,Hybrid
+389,Governance Analyst Intern,CivicLink Foundation,Public Policy,Pune,C|C++|Content Writing|SPSS|UI/UX,2 months,10500,NGO,Offline
+390,Security Analyst Intern,Innovate Labs,Cybersecurity,Surat,Content Writing|Digital Marketing|Linux|Networking|Power BI|Python|R|Tally,6 months,5500,Startup,Hybrid
+391,Content Strategist Intern,HealthSphere Analytics,Media,Chennai,Canva|Content Writing|Digital Marketing|Java|R|UI/UX,6 months,9000,NGO,Hybrid
+392,Digital Governance Intern,CivicLink Foundation,E-Governance,Visakhapatnam,JavaScript|Photoshop|Research|SQL|SolidWorks|Tally,1 month,13000,Govt,Hybrid
+393,Governance Analyst Intern,BrightPath Designs,Public Policy,Noida,Excel|GST|Research|Tableau,1 month,8500,Govt,Offline
+394,Governance Analyst Intern,GreenGrowth Initiatives,Public Policy,Lucknow,ArcGIS|Content Writing|Excel|Research|SPSS|SQL|Tableau,2 months,3500,PSU,Hybrid
+395,Full Stack Intern,GreenGrowth Initiatives,IT,Kochi,Data Entry|Figma|HTML|Java|JavaScript|Python|Tableau|Tally,3 months,6000,Govt,Hybrid
+396,Spatial Data Intern,TourEase Travels,GIS,Gurugram,Canva|Excel|Power BI|SEO|UI/UX,6 months,12500,Private,Offline
+397,Operations Intern,SecureNet Systems,Logistics,Bengaluru,Canva|Excel|Networking|Power BI|React|SEO|SQL|Tally,6 months,14000,Govt,Online
+398,Governance Analyst Intern,DataPulse Analytics,Public Policy,Gurugram,Canva|Content Writing|Excel|Figma|Power BI|Research|Typing,6 months,4000,Private,Hybrid
+399,Healthcare Data Intern,Skyline Innovations,Healthcare,Nagpur,C|GST|Power BI|Research|SPSS,2 months,14000,NGO,Hybrid
+400,Cyber Risk Intern,DataPulse Analytics,Cybersecurity,Bhopal,AutoCAD|Excel|Linux|Photoshop|Python,3 months,4000,Govt,Offline
+401,GIS Mapping Intern,UrbanRise Solutions,GIS,Chennai,ArcGIS|Excel|Java|Linux|Networking|QGIS|SEO,3 months,10000,NGO,Hybrid
+402,Operations Intern,FutureWave Tech,Logistics,Raipur,CSS|Excel|Illustrator|Linux|Power BI|Research|SPSS|Tableau,2 months,8000,Startup,Online
+403,Healthcare Data Intern (2),HealthSphere Analytics,Healthcare,Visakhapatnam,ArcGIS|Excel|GST|Python|QGIS|SPSS|SolidWorks|UI/UX,1 month,11500,NGO,Offline
+404,Security Analyst Intern,HealthSphere Analytics,Cybersecurity,Chandigarh,Excel|Figma|Illustrator|Linux|Python|Typing|UI/UX,1 month,7500,Private,Online
+405,Content Strategist Intern,FutureWave Tech,Media,Remote,Content Writing|Figma|GST|JavaScript|SEO|Tally|Typing,2 months,7000,Private,Offline
+406,Solar Projects Intern,LexGuard Associates,Renewable Energy,Jaipur,AutoCAD|CSS|Canva|Data Entry|Excel|Figma|Illustrator|Python|Research,6 months,5500,Private,Online
+407,Graphic Design Intern,EcoVision Energy,Design,Kolkata,C|CSS|Canva|Figma|GST|UI/UX,6 months,13500,PSU,Offline
+408,Social Media Intern (2),CivicLink Foundation,Media,Ranchi,C|Canva|Content Writing|Illustrator|Java|Power BI|SEO|SolidWorks,6 months,11500,Govt,Offline
+409,GIS Mapping Intern,Innovate Labs,GIS,Kochi,C++|Excel|React|Research,1 month,3000,Startup,Hybrid
+410,Healthcare Data Intern,MapCraft GIS,Healthcare,Visakhapatnam,Data Entry|Illustrator|Java|JavaScript|SPSS,6 months,14000,Govt,Hybrid
+411,Data Analyst Intern,Insight Finance Group,Data Analytics,Patna,CSS|Figma|Illustrator|Linux|Python|SQL|Tableau,6 months,4000,Startup,Online
+412,IT Support Intern,PolicyWorks India,IT,Nagpur,AutoCAD|C++|Excel|HTML|Illustrator|JavaScript|React|SQL,2 months,5500,NGO,Offline
+413,Security Analyst Intern,Skyline Innovations,Cybersecurity,Visakhapatnam,Linux|QGIS|React|Tableau|Typing,3 months,15000,NGO,Hybrid
+414,GIS Mapping Intern,Spectrum Media House,GIS,Chandigarh,Canva|Excel|QGIS|SEO|Tableau|Tally,6 months,12500,Startup,Hybrid
+415,Security Analyst Intern,NextGen Logistics,Cybersecurity,Mumbai,Java|Networking|Python|R|Research,2 months,10500,PSU,Offline
+416,Product Design Intern,BrightPath Designs,Design,Ahmedabad,AutoCAD|Canva|GST|HTML|Typing|UI/UX,6 months,3500,Private,Hybrid
+417,Security Analyst Intern,LexGuard Associates,Cybersecurity,Delhi,AutoCAD|C++|CSS|Content Writing|Linux|Networking|Photoshop|Python|Research,6 months,9000,Private,Online
+418,Social Media Intern,HealthSphere Analytics,Media,Surat,Canva|Content Writing|R|Research|SEO|SPSS,2 months,13000,Govt,Offline
+419,Business Intelligence Intern,NextGen Logistics,Data Analytics,Ranchi,C++|HTML|Power BI|Python|SolidWorks,6 months,4500,Govt,Offline
+420,Clinical Research Intern,Innovate Labs,Healthcare,Visakhapatnam,Excel|Illustrator|SQL|UI/UX,3 months,12000,Startup,Online
+421,Supply Chain Intern,Innovate Labs,Logistics,Bengaluru,Digital Marketing|Excel|Power BI|Research|SPSS|SQL,3 months,13000,Govt,Hybrid
+422,Business Intelligence Intern,SecureNet Systems,Data Analytics,Ahmedabad,ArcGIS|Data Entry|JavaScript|Photoshop|Power BI|React|Tableau,6 months,13500,Startup,Online
+423,Policy Research Intern,Spectrum Media House,Public Policy,Noida,Content Writing|Java|Networking|R|Research|SQL,2 months,13000,Govt,Hybrid
+424,IT Support Intern,SecureNet Systems,IT,Surat,CSS|Excel|Illustrator|Java|Linux|Photoshop,2 months,3000,Govt,Online
+425,Data Analyst Intern,LexGuard Associates,Data Analytics,Guwahati,Excel|Linux|Power BI|Python|R|Tableau,1 month,11000,Govt,Online
+426,Cyber Risk Intern,FutureWave Tech,Cybersecurity,Gurugram,HTML|Linux|Networking|Python|SEO,1 month,12500,PSU,Hybrid
+427,Civic Tech Intern,LexGuard Associates,E-Governance,Kolkata,ArcGIS|Excel|Figma|HTML|React,2 months,6500,Govt,Offline
+428,Finance Analyst Intern,TourEase Travels,Finance,Patna,C|Excel|Illustrator|Networking|Python|Tableau|Tally,1 month,12000,PSU,Offline
+429,Academic Research Intern,Skyline Innovations,Education,Chandigarh,C++|Content Writing|Excel|Research|SQL,2 months,7500,NGO,Offline
+430,Learning Design Intern,TourEase Travels,Education,Thiruvananthapuram,ArcGIS|C++|Content Writing|Research,1 month,8500,Govt,Online
+431,Software Intern,PolicyWorks India,IT,Nagpur,Data Entry|GST|Java|Linux|Python|R|Typing,3 months,4500,PSU,Offline
+432,Software Intern,BrightPath Designs,IT,Bhopal,ArcGIS|C++|Content Writing|Power BI|React|Tableau,3 months,6500,Govt,Offline
+433,Business Intelligence Intern,AgriNova Collective,Data Analytics,Ahmedabad,Excel|Figma|Photoshop|React|Tableau,3 months,3500,Govt,Online
+434,Graphic Design Intern,TourEase Travels,Design,Delhi,C++|Illustrator|Linux|Tally,2 months,15000,NGO,Offline
+435,Supply Chain Intern,BrightPath Designs,Logistics,Ahmedabad,Content Writing|SPSS|SQL|Tableau,1 month,12000,PSU,Offline
+436,Full Stack Intern,Skyline Innovations,IT,Jaipur,Figma|Illustrator|Photoshop|React|SolidWorks,2 months,12500,NGO,Hybrid
+437,Graphic Design Intern,CivicLink Foundation,Design,Guwahati,C|Figma|Networking|SEO|UI/UX,3 months,14000,NGO,Offline
+438,Field Operations Intern,FutureWave Tech,Agriculture,Kolkata,CSS|Canva|Excel|Research|SEO|SPSS,1 month,12000,Private,Hybrid
+439,Sustainability Intern,Skyline Innovations,Renewable Energy,Indore,AutoCAD|C|JavaScript|Photoshop|SPSS,1 month,8000,PSU,Online
+440,Social Media Intern,LexGuard Associates,Media,Remote,CSS|Digital Marketing|Figma|Linux|SEO,6 months,14000,Startup,Online
+441,Field Operations Intern,TourEase Travels,Agriculture,Mysuru,AutoCAD|Figma|Python|React|Research|SEO|SQL,1 month,9000,Private,Offline
+442,Spatial Data Intern,FutureWave Tech,GIS,Ahmedabad,Excel|Figma|Java|Linux|Photoshop|QGIS|SQL|Tally,3 months,10000,Startup,Hybrid
+443,IT Support Intern,LexGuard Associates,IT,Bhopal,Canva|Excel|GST|Illustrator|JavaScript|SolidWorks,3 months,15000,PSU,Offline
+444,Academic Research Intern,SecureNet Systems,Education,Chandigarh,C++|Canva|Content Writing|Data Entry|Excel|Illustrator|Linux|Research|SolidWorks,2 months,5000,NGO,Online
+445,Legal Research Intern,EcoVision Energy,Law,Pune,Content Writing|JavaScript|Photoshop|Research|SPSS,1 month,5500,NGO,Hybrid
+446,Travel Operations Intern,MapCraft GIS,Tourism,Chennai,CSS|Content Writing|Figma|QGIS|SPSS|SQL|Typing,6 months,10000,Private,Hybrid
+447,Data Analyst Intern,Skyline Innovations,Data Analytics,Bengaluru,HTML|Power BI|R|Research|SPSS|Tally,2 months,4500,Startup,Online
+448,Academic Research Intern,HealthSphere Analytics,Education,Delhi,C|Digital Marketing|Excel|Research|SPSS|Tableau|UI/UX,3 months,3500,Private,Online
+449,Product Design Intern,SecureNet Systems,Design,Mysuru,Digital Marketing|Figma|Research,3 months,8000,NGO,Online
+450,Academic Research Intern,GreenGrowth Initiatives,Education,Kochi,Content Writing|Digital Marketing|Excel|HTML|Java|React|Research|Tableau,6 months,10500,Private,Hybrid
+451,GIS Mapping Intern,CivicLink Foundation,GIS,Patna,ArcGIS|Data Entry|Excel|SPSS|Tally|Typing,2 months,4500,PSU,Hybrid
+452,Governance Analyst Intern,Insight Finance Group,Public Policy,Bengaluru,Content Writing|Excel|GST|SEO|Tableau|UI/UX,2 months,12000,Startup,Online
+453,Cyber Risk Intern,Spectrum Media House,Cybersecurity,Raipur,C|Canva|Linux|Python|React,2 months,12000,PSU,Offline
+454,Finance Analyst Intern,TourEase Travels,Finance,Surat,CSS|Content Writing|GST|Power BI|Python|Tally|UI/UX,2 months,5500,NGO,Hybrid
+455,Travel Operations Intern,BrightPath Designs,Tourism,Bhopal,Content Writing|Excel|Python|QGIS|R|SQL|Typing,1 month,3500,Startup,Online
+456,Investment Research Intern,NextGen Logistics,Finance,Guwahati,Excel|Photoshop|Power BI|React|Research|Tableau,1 month,13000,Govt,Online
+457,Cyber Risk Intern,SecureNet Systems,Cybersecurity,Raipur,Java|Linux|Networking|Photoshop|Python|SEO,1 month,6500,Private,Offline
+458,Software Intern,LexGuard Associates,IT,Noida,HTML|Photoshop|React|Tableau,3 months,10500,Private,Online
+459,Field Operations Intern,MapCraft GIS,Agriculture,Surat,Excel|QGIS|React|Research|SPSS|SQL,1 month,4500,NGO,Online
+460,Social Media Intern,NextGen Logistics,Media,Gurugram,Content Writing|Digital Marketing|JavaScript|Linux|Power BI|SEO|SPSS|UI/UX,1 month,13500,Startup,Offline
+461,Travel Operations Intern,BrightPath Designs,Tourism,Mumbai,CSS|Digital Marketing|Linux|SEO,6 months,8000,Govt,Hybrid
+462,Compliance Intern,EduBridge Alliance,Law,Bengaluru,Content Writing|Data Entry|Linux|Photoshop|Research|SPSS,2 months,7500,Startup,Hybrid
+463,Social Media Intern,PolicyWorks India,Media,Lucknow,ArcGIS|AutoCAD|Canva|Digital Marketing|Excel|Illustrator|Linux|Tableau,3 months,11500,Startup,Offline
+464,Civic Tech Intern,MapCraft GIS,E-Governance,Kochi,ArcGIS|Data Entry|Illustrator|Java|Python|R|Research|SQL|Tally,3 months,12500,Startup,Offline
+465,GIS Mapping Intern,LexGuard Associates,GIS,Nagpur,Excel|Java|QGIS|SPSS|Typing,3 months,4500,Private,Hybrid
+466,Compliance Intern,SecureNet Systems,Law,Thiruvananthapuram,CSS|Content Writing|JavaScript|Photoshop|Research,1 month,12500,NGO,Online
+467,Data Analyst Intern,DataPulse Analytics,Data Analytics,Bhopal,Excel|Illustrator|React|SQL|Tableau,2 months,4000,PSU,Hybrid
+468,Finance Analyst Intern,TourEase Travels,Finance,Noida,Figma|GST|Photoshop|Power BI|SEO,3 months,11500,NGO,Online
+469,Clinical Research Intern,TourEase Travels,Healthcare,Jaipur,C++|CSS|Excel|Power BI|Python|SolidWorks|Tableau,6 months,14500,Private,Hybrid
+470,Tour Planning Intern,TourEase Travels,Tourism,Indore,ArcGIS|Content Writing|Data Entry|Figma|Networking|R|SEO,3 months,11500,NGO,Hybrid
+471,Digital Governance Intern,FutureWave Tech,E-Governance,Gurugram,Content Writing|Java|Networking|Photoshop|Research|SPSS|SQL|UI/UX,2 months,14000,Private,Online
+472,Security Analyst Intern,CivicLink Foundation,Cybersecurity,Visakhapatnam,AutoCAD|GST|Linux|Networking|SolidWorks|Tableau,3 months,5500,Private,Hybrid
+473,Digital Governance Intern,EduBridge Alliance,E-Governance,Ranchi,Excel|Illustrator|Photoshop|Power BI,6 months,13500,Private,Online
+474,Cyber Risk Intern,LexGuard Associates,Cybersecurity,Hyderabad,AutoCAD|Content Writing|HTML|Linux|Networking|Photoshop|Python|R|React,1 month,9500,PSU,Offline
+475,Product Design Intern,PolicyWorks India,Design,Surat,ArcGIS|Content Writing|Digital Marketing|Figma|Java|Photoshop|UI/UX,3 months,7000,NGO,Offline
+476,Civic Tech Intern,AgriNova Collective,E-Governance,Lucknow,Excel|Linux|Python|R|Research|SQL|SolidWorks|Tableau,1 month,4500,Private,Offline
+477,Full Stack Intern,GreenGrowth Initiatives,IT,Mumbai,Data Entry|Excel|HTML|Python|Tally,2 months,4000,Startup,Offline
+478,Security Analyst Intern,GreenGrowth Initiatives,Cybersecurity,Delhi,Java|Linux|Python|Research|SQL,3 months,11000,Startup,Online
+479,Security Analyst Intern,BrightPath Designs,Cybersecurity,Ahmedabad,C++|Content Writing|JavaScript|Linux|Python,3 months,7000,Startup,Offline
+480,Sustainability Intern,TourEase Travels,Renewable Energy,Mumbai,AutoCAD|Canva|Excel|Illustrator|Java|Power BI,3 months,7500,Govt,Hybrid
+481,Field Operations Intern,GreenGrowth Initiatives,Agriculture,Bengaluru,Canva|Content Writing|Data Entry|Power BI|Python|Research|SPSS,3 months,4500,Startup,Online
+482,Finance Analyst Intern,BrightPath Designs,Finance,Surat,Excel|GST|JavaScript|QGIS|Research|Tally|UI/UX,6 months,13000,PSU,Offline
+483,Learning Design Intern,SecureNet Systems,Education,Delhi,ArcGIS|C|Excel|HTML|Python|Research|SQL|UI/UX,6 months,11000,NGO,Hybrid
+484,Product Design Intern,LexGuard Associates,Design,Guwahati,Figma|SQL|UI/UX,1 month,10000,Govt,Hybrid
+485,Field Operations Intern,FutureWave Tech,Agriculture,Bengaluru,AutoCAD|Research|SEO|SPSS|Tally|UI/UX,6 months,14000,Govt,Hybrid
+486,Solar Projects Intern,SecureNet Systems,Renewable Energy,Jaipur,Digital Marketing|Excel|Figma|Research|Tally,3 months,3000,Govt,Online
+487,Field Operations Intern,Spectrum Media House,Agriculture,Noida,AutoCAD|C++|CSS|Data Entry|Excel|QGIS|Typing,6 months,14000,Govt,Online
+488,Solar Projects Intern,NextGen Logistics,Renewable Energy,Lucknow,AutoCAD|Data Entry|Digital Marketing|Excel|GST|Java|Power BI|Research,2 months,13500,Govt,Offline
+489,Healthcare Data Intern,CivicLink Foundation,Healthcare,Visakhapatnam,ArcGIS|C++|JavaScript|Photoshop|Python|Research|SolidWorks,2 months,15000,Govt,Hybrid
+490,Data Analyst Intern,Innovate Labs,Data Analytics,Thiruvananthapuram,C|Content Writing|Linux|R|SPSS|SQL|Tableau,3 months,14500,Private,Hybrid
+491,IT Support Intern,LexGuard Associates,IT,Indore,CSS|Canva|GST|Java|React,2 months,10500,Govt,Online
+492,Legal Research Intern,LexGuard Associates,Law,Remote,CSS|Content Writing|JavaScript|Research|Tableau,2 months,5000,Private,Hybrid
+493,Security Analyst Intern,Innovate Labs,Cybersecurity,Gurugram,Canva|Figma|HTML|JavaScript|Linux|Networking|Photoshop|Python|SQL,1 month,4500,PSU,Hybrid
+494,Supply Chain Intern,AgriNova Collective,Logistics,Gurugram,Data Entry|Power BI|Python|SQL,3 months,14500,PSU,Online
+495,Agri Research Intern,NextGen Logistics,Agriculture,Kolkata,AutoCAD|Excel|Figma|SPSS|Tally|UI/UX,1 month,10000,Private,Hybrid
+496,Finance Analyst Intern,LexGuard Associates,Finance,Chennai,ArcGIS|Excel|Figma|GST|Illustrator|Java|Tableau|Tally,2 months,5000,NGO,Online
+497,Legal Research Intern,FutureWave Tech,Law,Hyderabad,Content Writing|Java|Research|SolidWorks|Tableau,3 months,12000,Private,Offline
+498,Social Media Intern,Spectrum Media House,Media,Nagpur,C++|Canva|Content Writing|Data Entry|Excel|SEO|Tableau,6 months,10000,Private,Hybrid
+499,Full Stack Intern,LexGuard Associates,IT,Chennai,Content Writing|Data Entry|HTML|Linux,1 month,5000,NGO,Online
+500,Healthcare Data Intern,CivicLink Foundation,Healthcare,Noida,Java|Python|SPSS|SQL,2 months,12000,Govt,Offline
+501,Governance Analyst Intern,UrbanRise Solutions,Public Policy,Thiruvananthapuram,ArcGIS|CSS|Content Writing|Excel|GST|Research,1 month,6500,Startup,Offline
+502,Agri Research Intern,NextGen Logistics,Agriculture,Mysuru,Data Entry|Excel|GST|Linux|Photoshop|Tally,1 month,5000,NGO,Offline
+503,Sustainability Intern,BrightPath Designs,Renewable Energy,Kochi,Excel|Figma|JavaScript|Research|SEO,2 months,10000,Private,Offline
+504,IT Support Intern,Spectrum Media House,IT,Noida,Photoshop|React|SQL|Tableau,3 months,8500,Private,Offline
+505,Academic Research Intern,PolicyWorks India,Education,Nagpur,Content Writing|Digital Marketing|Excel|GST|Research,3 months,11000,Private,Hybrid
+506,Governance Analyst Intern,Skyline Innovations,Public Policy,Raipur,Content Writing|Excel|Java|Research|SEO|Tally,2 months,14500,Startup,Offline
+507,Security Analyst Intern,PolicyWorks India,Cybersecurity,Chennai,AutoCAD|Canva|GST|Linux|Networking|Python|R|SQL|Typing,1 month,11500,Govt,Online
+508,Investment Research Intern,DataPulse Analytics,Finance,Chandigarh,C|GST|HTML|Illustrator|Networking|QGIS|SQL,3 months,9500,Startup,Offline
+509,Full Stack Intern,EcoVision Energy,IT,Mysuru,AutoCAD|CSS|Excel|HTML|Power BI|Python|React,2 months,5500,Govt,Hybrid
+510,Governance Analyst Intern,Skyline Innovations,Public Policy,Visakhapatnam,AutoCAD|C|Excel|JavaScript|Research|UI/UX,3 months,6000,Startup,Offline
+511,IT Support Intern,FutureWave Tech,IT,Visakhapatnam,Canva|Data Entry|Digital Marketing|Linux|SQL|Tally,3 months,15000,Govt,Hybrid
+512,Civic Tech Intern,PolicyWorks India,E-Governance,Ahmedabad,AutoCAD|C|Figma|Python|R|Research|SQL|SolidWorks,6 months,11000,Private,Online
+513,Finance Analyst Intern,GreenGrowth Initiatives,Finance,Pune,Canva|Content Writing|Digital Marketing|Excel|Linux|SPSS|SQL,3 months,7000,Startup,Hybrid
+514,Sustainability Intern,NextGen Logistics,Renewable Energy,Jaipur,AutoCAD|Power BI|Research|SQL|Tableau|Tally|UI/UX,3 months,5500,Private,Offline
+515,Content Strategist Intern,AgriNova Collective,Media,Bhopal,C++|CSS|Content Writing|Power BI|React|SEO|Typing,6 months,4000,Startup,Hybrid
+516,Travel Operations Intern,EduBridge Alliance,Tourism,Remote,Content Writing|Digital Marketing|Excel|Python|QGIS|R|Tally|Typing,1 month,5000,NGO,Hybrid
+517,Clinical Research Intern,FutureWave Tech,Healthcare,Mumbai,Canva|Excel|Research|SPSS|SolidWorks|UI/UX,3 months,8500,Private,Offline
+518,Agri Research Intern,UrbanRise Solutions,Agriculture,Visakhapatnam,Content Writing|Data Entry|Excel|SPSS|SolidWorks,6 months,6500,Private,Online
+519,Policy Research Intern,EduBridge Alliance,Public Policy,Bhopal,Illustrator|Networking|Power BI|Research,6 months,13500,Startup,Hybrid
+520,GIS Mapping Intern,NextGen Logistics,GIS,Hyderabad,C|Content Writing|Excel|Networking|Power BI|QGIS|Research|SEO,2 months,11500,NGO,Offline
+521,Legal Research Intern,LexGuard Associates,Law,Jaipur,CSS|Content Writing|Data Entry|JavaScript|QGIS|Research|Tally,1 month,11500,Startup,Online
+522,Learning Design Intern,Spectrum Media House,Education,Mysuru,Content Writing|Excel|Python|R|Research|Typing,2 months,13500,PSU,Hybrid
+523,Graphic Design Intern,Spectrum Media House,Design,Mumbai,Digital Marketing|Illustrator|SEO|Typing|UI/UX,3 months,5500,Private,Offline
+524,Healthcare Data Intern,BrightPath Designs,Healthcare,Ahmedabad,ArcGIS|CSS|Data Entry|Excel|Linux|Python|React|SPSS,3 months,4000,PSU,Offline
+525,Social Media Intern,Innovate Labs,Media,Visakhapatnam,C++|Content Writing|QGIS|SEO|Typing,3 months,12500,PSU,Hybrid
+526,Agri Research Intern,Insight Finance Group,Agriculture,Surat,C|Excel|Photoshop|Research|SEO|SPSS|SQL,6 months,3000,PSU,Online
+527,Policy Research Intern,Insight Finance Group,Public Policy,Pune,Content Writing|Excel|Figma|JavaScript|SEO|SolidWorks,3 months,13000,Startup,Online
+528,Security Analyst Intern,DataPulse Analytics,Cybersecurity,Chandigarh,C|Digital Marketing|Linux|Networking|Python|Tally,2 months,4500,Govt,Offline
+529,Social Media Intern,CivicLink Foundation,Media,Jaipur,AutoCAD|Canva|Content Writing|SEO|SPSS,6 months,14500,Govt,Offline
+530,Governance Analyst Intern,Spectrum Media House,Public Policy,Chennai,Canva|Content Writing|Excel|Illustrator|Networking|SolidWorks|UI/UX,1 month,7000,Govt,Offline
+531,Learning Design Intern,Insight Finance Group,Education,Raipur,Digital Marketing|Excel|Linux|SEO|SPSS|Tally,2 months,11000,PSU,Hybrid
+532,Civic Tech Intern,LexGuard Associates,E-Governance,Thiruvananthapuram,ArcGIS|Canva|Digital Marketing|Excel|Illustrator|Research|SQL,2 months,14500,Startup,Hybrid
+533,Security Analyst Intern,FutureWave Tech,Cybersecurity,Guwahati,Linux|Networking|Power BI|QGIS|SolidWorks|Tableau|UI/UX,6 months,9000,Private,Online
+534,Cyber Risk Intern,Skyline Innovations,Cybersecurity,Bhopal,ArcGIS|Excel|Linux,6 months,14000,Startup,Online
+535,Learning Design Intern,EcoVision Energy,Education,Nagpur,ArcGIS|Canva|Excel|Java|QGIS|Research,1 month,4500,Govt,Offline
+536,Field Operations Intern,FutureWave Tech,Agriculture,Raipur,ArcGIS|Data Entry|Excel|Photoshop|R|SPSS|SolidWorks,1 month,5000,Private,Hybrid
+537,Learning Design Intern,Innovate Labs,Education,Bhopal,Content Writing|Excel|HTML|JavaScript|Python|Research|SEO,1 month,4500,Startup,Online
+538,IT Support Intern,NextGen Logistics,IT,Ahmedabad,AutoCAD|Power BI|R|React|Research|SQL|Tableau,6 months,5500,PSU,Offline
+539,Supply Chain Intern,AgriNova Collective,Logistics,Remote,AutoCAD|Excel|Photoshop|QGIS|Research|SEO|Tally,6 months,4000,NGO,Offline
+540,Legal Research Intern,Innovate Labs,Law,Thiruvananthapuram,ArcGIS|Content Writing|Digital Marketing|Java|Power BI|Research,6 months,14000,Govt,Online
+541,Full Stack Intern,BrightPath Designs,IT,Delhi,JavaScript|Photoshop|Power BI|React|SEO,6 months,10500,Govt,Hybrid
+542,Operations Intern,EduBridge Alliance,Logistics,Remote,AutoCAD|Excel|Illustrator|SEO,3 months,6500,Private,Offline
+543,Travel Operations Intern,EcoVision Energy,Tourism,Guwahati,ArcGIS|C|Digital Marketing|JavaScript|QGIS,3 months,4000,NGO,Offline
+544,Supply Chain Intern,DataPulse Analytics,Logistics,Guwahati,Excel|Networking|Power BI|SEO|SQL|SolidWorks|UI/UX,6 months,9500,NGO,Offline
+545,Sustainability Intern,FutureWave Tech,Renewable Energy,Kolkata,AutoCAD|C|Content Writing|Digital Marketing|Power BI|React|Research|SPSS,1 month,8000,Startup,Offline
+546,Solar Projects Intern,FutureWave Tech,Renewable Energy,Chennai,AutoCAD|Digital Marketing|Excel|Photoshop|Research|Typing|UI/UX,6 months,12000,Startup,Hybrid
+547,Tour Planning Intern,FutureWave Tech,Tourism,Remote,C|Content Writing|Digital Marketing|Excel|JavaScript,6 months,14500,Private,Hybrid
+548,Operations Intern,Skyline Innovations,Logistics,Kochi,Excel|React|SolidWorks|Tableau,2 months,4500,Private,Hybrid
+549,Social Media Intern,GreenGrowth Initiatives,Media,Mumbai,Canva|Content Writing|Digital Marketing|SolidWorks,2 months,5000,Private,Offline
+550,Product Design Intern (2),LexGuard Associates,Design,Guwahati,C++|Canva|Excel|Figma|HTML|SolidWorks|Tableau|UI/UX,3 months,7500,Private,Online
+551,Digital Governance Intern,Insight Finance Group,E-Governance,Jaipur,ArcGIS|AutoCAD|Illustrator|Linux|Python|React,6 months,3500,Startup,Hybrid
+552,Tour Planning Intern,CivicLink Foundation,Tourism,Gurugram,Content Writing|Digital Marketing|Excel|GST|Linux,3 months,10500,NGO,Hybrid
+553,Software Intern,BrightPath Designs,IT,Ranchi,CSS|GST|HTML|JavaScript|Photoshop|React|SQL,3 months,13500,Govt,Online
+554,Data Analyst Intern,SecureNet Systems,Data Analytics,Nagpur,AutoCAD|Content Writing|Excel|SEO|Tableau,2 months,12000,Private,Hybrid
+555,Digital Governance Intern,BrightPath Designs,E-Governance,Mysuru,Illustrator|JavaScript|Linux|Photoshop|Python|SQL,3 months,10000,PSU,Online
+556,Legal Research Intern,LexGuard Associates,Law,Kochi,C++|Content Writing|Digital Marketing|Power BI|R|Research|SQL|Tally,1 month,6000,Private,Online
+557,Finance Analyst Intern,AgriNova Collective,Finance,Jaipur,Excel|Figma|Java|Python|SQL|Tally,3 months,10500,PSU,Hybrid
+558,Social Media Intern,MapCraft GIS,Media,Kochi,Content Writing|Figma|GST|Photoshop|Research|SEO,6 months,5500,Govt,Offline
+559,Digital Governance Intern,TourEase Travels,E-Governance,Lucknow,AutoCAD|CSS|Canva|Java|Research|SolidWorks|Tally,3 months,3500,Private,Offline
+560,Graphic Design Intern,FutureWave Tech,Design,Surat,C|CSS|Content Writing|Data Entry|Research|UI/UX,2 months,8000,Govt,Offline
+561,Clinical Research Intern,Innovate Labs,Healthcare,Bengaluru,ArcGIS|C|Excel|SEO,2 months,9000,Private,Online
+562,Finance Analyst Intern,GreenGrowth Initiatives,Finance,Remote,AutoCAD|Data Entry|GST|Photoshop|Python|SPSS|SQL,1 month,6000,Startup,Offline
+563,Cyber Risk Intern,GreenGrowth Initiatives,Cybersecurity,Nagpur,Digital Marketing|GST|JavaScript|Linux|Networking|SolidWorks,1 month,14500,PSU,Hybrid
+564,GIS Mapping Intern,Insight Finance Group,GIS,Gurugram,C|Excel|GST|Networking|Photoshop|Power BI|UI/UX,6 months,4000,Startup,Hybrid
+565,Field Operations Intern,HealthSphere Analytics,Agriculture,Noida,ArcGIS|Data Entry|Excel|JavaScript|Power BI|Research|SEO|Typing,2 months,8000,Startup,Online
+566,Travel Operations Intern,DataPulse Analytics,Tourism,Kolkata,ArcGIS|AutoCAD|Content Writing|Digital Marketing|Linux|Tableau,3 months,5000,Private,Offline
+567,Healthcare Data Intern,EcoVision Energy,Healthcare,Nagpur,CSS|Excel|HTML|Networking|Python|QGIS|SEO|SPSS|UI/UX,3 months,12500,Private,Offline
+568,IT Support Intern,TourEase Travels,IT,Indore,Figma|Python|SEO|SPSS|SQL|SolidWorks,6 months,7500,PSU,Hybrid
+569,Legal Research Intern,PolicyWorks India,Law,Ranchi,C|Content Writing|GST|Research|SQL|Tableau|UI/UX,1 month,8500,PSU,Hybrid
+570,GIS Mapping Intern,BrightPath Designs,GIS,Indore,ArcGIS|Figma|QGIS|SolidWorks|Tableau,6 months,7500,Startup,Offline
+571,Legal Research Intern,LexGuard Associates,Law,Chandigarh,Content Writing|Research|SolidWorks|Tableau|Tally,6 months,5000,Private,Offline
+572,Compliance Intern,Skyline Innovations,Law,Noida,Content Writing|Excel|Python|React|Research|Tableau,6 months,10000,NGO,Online
+573,Data Analyst Intern,TourEase Travels,Data Analytics,Remote,ArcGIS|Content Writing|Data Entry|HTML|Python|SEO|UI/UX,6 months,5500,Govt,Hybrid
+574,Clinical Research Intern,TourEase Travels,Healthcare,Remote,HTML|Networking|QGIS|React|Research,6 months,6500,Govt,Hybrid
+575,Product Design Intern,Insight Finance Group,Design,Raipur,GST|Illustrator|Networking|Photoshop|SEO|Tally|Typing,6 months,10000,Startup,Hybrid
+576,Sustainability Intern,FutureWave Tech,Renewable Energy,Ranchi,C|C++|React|Research|Tally,3 months,14500,Govt,Hybrid
+577,IT Support Intern,Insight Finance Group,IT,Raipur,Digital Marketing|HTML|Networking|R|SolidWorks,3 months,6000,Startup,Online
+578,Clinical Research Intern,Insight Finance Group,Healthcare,Bhopal,C++|Canva|Excel|HTML|Python|R|Research,3 months,10500,Startup,Hybrid
+579,Graphic Design Intern,LexGuard Associates,Design,Patna,ArcGIS|CSS|Canva|Figma|Photoshop|Typing|UI/UX,1 month,3000,Govt,Offline
+580,Legal Research Intern,NextGen Logistics,Law,Ahmedabad,GST|Networking|Python|Research|Typing,2 months,7500,PSU,Hybrid
+581,Clinical Research Intern,Insight Finance Group,Healthcare,Kochi,C++|Canva|Java|Python|Typing,3 months,13000,Govt,Online
+582,Social Media Intern,NextGen Logistics,Media,Patna,ArcGIS|AutoCAD|Canva|Content Writing|HTML|Networking|SEO|UI/UX,1 month,4000,NGO,Offline
+583,Compliance Intern,GreenGrowth Initiatives,Law,Chandigarh,Canva|Content Writing|HTML|Research,3 months,5500,Private,Online
+584,Healthcare Data Intern,TourEase Travels,Healthcare,Bengaluru,ArcGIS|C|GST|Power BI|Python|React|Tally,1 month,9500,Startup,Online
+585,Investment Research Intern,EcoVision Energy,Finance,Mumbai,Digital Marketing|Java|Power BI|R|SPSS|SolidWorks|UI/UX,2 months,11000,NGO,Hybrid
+586,Content Strategist Intern,Skyline Innovations,Media,Jaipur,C++|Canva|Content Writing|Digital Marketing|SEO,6 months,4500,NGO,Online
+587,IT Support Intern,LexGuard Associates,IT,Ranchi,AutoCAD|Excel|HTML|Java|JavaScript|R|SPSS|SQL,6 months,5000,Startup,Hybrid
+588,Field Operations Intern,DataPulse Analytics,Agriculture,Remote,ArcGIS|Data Entry|Power BI|React,1 month,7000,Govt,Offline
+589,Travel Operations Intern,LexGuard Associates,Tourism,Jaipur,Content Writing|Digital Marketing|JavaScript|Linux|Networking|Photoshop,2 months,7000,Startup,Hybrid
+590,Finance Analyst Intern,CivicLink Foundation,Finance,Mysuru,JavaScript|Power BI|Python|QGIS|Tally,2 months,10000,NGO,Hybrid
+591,Legal Research Intern,Insight Finance Group,Law,Lucknow,Figma|Illustrator|JavaScript|Research|SolidWorks,1 month,8500,Govt,Offline
+592,Investment Research Intern,Innovate Labs,Finance,Delhi,Canva|Digital Marketing|Python|SQL|Tally,6 months,3000,PSU,Online
+593,Sustainability Intern,Spectrum Media House,Renewable Energy,Noida,AutoCAD|CSS|Excel|Linux|Python|QGIS|React|Research,3 months,7000,PSU,Offline
+594,Content Strategist Intern (2),FutureWave Tech,Media,Remote,CSS|Canva|Content Writing|Digital Marketing|GST|Java|Photoshop|SQL,1 month,14000,Private,Hybrid
+595,Healthcare Data Intern,EcoVision Energy,Healthcare,Lucknow,C++|Content Writing|Research|SPSS|SolidWorks,3 months,11000,Private,Offline
+596,Business Intelligence Intern,Innovate Labs,Data Analytics,Raipur,Content Writing|GST|Power BI|Python|SEO|SPSS|Tally,2 months,6500,Startup,Online
+597,Business Intelligence Intern,BrightPath Designs,Data Analytics,Surat,Illustrator|JavaScript|Python|R|Research|Typing,2 months,12500,NGO,Hybrid
+598,Graphic Design Intern,EduBridge Alliance,Design,Kolkata,Canva|Content Writing|Data Entry|Excel|Figma|Photoshop|QGIS|R|UI/UX,6 months,8000,NGO,Offline
+599,Investment Research Intern,Innovate Labs,Finance,Kochi,AutoCAD|C++|Excel|Figma|GST|Python|React,3 months,6000,PSU,Offline
+600,Digital Governance Intern,AgriNova Collective,E-Governance,Hyderabad,C|Canva|Excel|Photoshop|Python|SQL|UI/UX,2 months,7500,NGO,Offline
+601,Business Intelligence Intern,NextGen Logistics,Data Analytics,Bengaluru,CSS|Data Entry|Photoshop|Power BI|R|React|Research|SolidWorks,6 months,8500,NGO,Online
+602,Business Intelligence Intern,CivicLink Foundation,Data Analytics,Indore,C++|JavaScript|Photoshop|Python|SQL|Tableau|UI/UX,2 months,12000,Govt,Hybrid
+603,Operations Intern,DataPulse Analytics,Logistics,Remote,C++|Canva|SQL|Tally|Typing,2 months,7500,Startup,Hybrid
+604,Legal Research Intern,EcoVision Energy,Law,Thiruvananthapuram,Canva|Content Writing|HTML|R|Research|Tally,2 months,10000,Startup,Hybrid
+605,Policy Research Intern,GreenGrowth Initiatives,Public Policy,Remote,Content Writing|Digital Marketing|Excel|Research|SEO|Typing,6 months,7500,Startup,Online
+606,Learning Design Intern,Skyline Innovations,Education,Guwahati,Content Writing|Excel|Python|QGIS|Typing,6 months,10500,NGO,Offline
+607,Social Media Intern,NextGen Logistics,Media,Noida,Digital Marketing|Linux|SEO|SPSS,6 months,7500,Private,Hybrid
+608,Cyber Risk Intern,Skyline Innovations,Cybersecurity,Remote,AutoCAD|JavaScript|Linux|Networking|Python|QGIS|Tableau,1 month,10500,Private,Online
+609,Digital Governance Intern,LexGuard Associates,E-Governance,Noida,Canva|Excel|Research|SEO|SPSS|Tally|UI/UX,6 months,9500,Startup,Hybrid
+610,Data Analyst Intern,EcoVision Energy,Data Analytics,Nagpur,ArcGIS|Data Entry|Illustrator|Java|Photoshop|Power BI|Python|Research|SQL,6 months,11500,PSU,Hybrid
+611,Digital Governance Intern,MapCraft GIS,E-Governance,Chennai,AutoCAD|C|Canva|Data Entry|Excel|Figma|Networking|Python,1 month,10000,Private,Online
+612,Operations Intern,DataPulse Analytics,Logistics,Patna,CSS|Digital Marketing|Python|SQL,6 months,15000,PSU,Offline
+613,Graphic Design Intern,Spectrum Media House,Design,Indore,Canva|Excel|GST|Tableau,1 month,9500,Govt,Offline
+614,Social Media Intern,PolicyWorks India,Media,Visakhapatnam,Digital Marketing|JavaScript|Research|SEO|SPSS,1 month,4000,NGO,Offline
+615,Legal Research Intern,TourEase Travels,Law,Guwahati,AutoCAD|CSS|Content Writing|GST|Power BI|Research|UI/UX,1 month,13500,Private,Hybrid
+616,Governance Analyst Intern,FutureWave Tech,Public Policy,Mysuru,Content Writing|Data Entry|Excel|Figma|Python|Research|Typing,1 month,14500,NGO,Hybrid
+617,Legal Research Intern,Insight Finance Group,Law,Mysuru,ArcGIS|C|Content Writing|Figma|Networking|Research|SQL|Tally,6 months,12000,Startup,Hybrid
+618,Software Intern,Innovate Labs,IT,Jaipur,C|Content Writing|JavaScript|Python,3 months,13000,NGO,Offline
+619,Clinical Research Intern,HealthSphere Analytics,Healthcare,Visakhapatnam,C|Data Entry|Linux|Networking|Research,2 months,6500,Govt,Hybrid
+620,Travel Operations Intern,AgriNova Collective,Tourism,Jaipur,AutoCAD|Digital Marketing|Excel|Illustrator|Java|UI/UX,3 months,4000,Private,Offline
+621,Travel Operations Intern,NextGen Logistics,Tourism,Surat,AutoCAD|C|Data Entry|Excel|HTML|Illustrator|Tableau,3 months,9000,Private,Offline
+622,Compliance Intern,FutureWave Tech,Law,Thiruvananthapuram,ArcGIS|AutoCAD|Networking|Research|SolidWorks,6 months,5500,Private,Hybrid
+623,IT Support Intern,BrightPath Designs,IT,Remote,ArcGIS|CSS|HTML|JavaScript|Networking|SQL|UI/UX,1 month,5500,NGO,Offline
+624,Digital Governance Intern,Skyline Innovations,E-Governance,Chandigarh,C++|CSS|Excel|Illustrator|Power BI|Python|SQL|Tableau|UI/UX,3 months,9500,Govt,Hybrid
+625,Legal Research Intern,Spectrum Media House,Law,Ahmedabad,Content Writing|Digital Marketing|GST|Research|SolidWorks|Tableau,2 months,7000,NGO,Offline
+626,Social Media Intern,FutureWave Tech,Media,Lucknow,Canva|HTML|Photoshop|React,3 months,14500,Startup,Hybrid
+627,Healthcare Data Intern,FutureWave Tech,Healthcare,Patna,Excel|Java|Python|R,1 month,12000,NGO,Hybrid
+628,Investment Research Intern,MapCraft GIS,Finance,Surat,Canva|Excel|GST|Power BI|SEO|SQL|SolidWorks,6 months,5000,Startup,Offline
+629,Supply Chain Intern,NextGen Logistics,Logistics,Kolkata,Content Writing|Excel|Power BI|SPSS|SQL,2 months,13500,PSU,Offline
+630,Learning Design Intern (2),SecureNet Systems,Education,Delhi,Content Writing|Data Entry|Excel|Figma|Illustrator|Research|SolidWorks|UI/UX,1 month,4000,Govt,Online
+631,IT Support Intern,EduBridge Alliance,IT,Raipur,Data Entry|Java|Linux|Python,1 month,10000,NGO,Hybrid
+632,Cyber Risk Intern,EcoVision Energy,Cybersecurity,Delhi,CSS|Excel|Figma|Linux|Networking|Python|React,3 months,7500,PSU,Hybrid
+633,Spatial Data Intern,UrbanRise Solutions,GIS,Patna,ArcGIS|Content Writing|Figma|QGIS|UI/UX,6 months,14000,Startup,Online
+634,Civic Tech Intern,FutureWave Tech,E-Governance,Patna,Canva|Excel|Figma|HTML|Python|QGIS|SQL|UI/UX,6 months,7000,Startup,Hybrid
+635,Digital Governance Intern,CivicLink Foundation,E-Governance,Noida,Data Entry|Excel|Java|Python|SEO|SQL|SolidWorks,6 months,5000,Govt,Online
+636,Graphic Design Intern,EcoVision Energy,Design,Ranchi,Canva|Excel|Figma|Power BI|React,6 months,8500,NGO,Offline
+637,Business Intelligence Intern,EcoVision Energy,Data Analytics,Remote,Power BI|Python|R|SQL|Tally,3 months,12500,PSU,Offline
+638,Spatial Data Intern,FutureWave Tech,GIS,Guwahati,ArcGIS|Canva|Excel|GST|Java|Tableau,2 months,15000,PSU,Online
+639,Finance Analyst Intern,AgriNova Collective,Finance,Remote,HTML|JavaScript|Linux|Networking|Photoshop|Power BI|Tally,1 month,15000,Startup,Offline
+640,Travel Operations Intern,UrbanRise Solutions,Tourism,Pune,Content Writing|Digital Marketing|Excel|Illustrator|Linux|Photoshop|Research,2 months,9000,PSU,Online
+641,Agri Research Intern,HealthSphere Analytics,Agriculture,Nagpur,CSS|Digital Marketing|Excel|Linux|R|Tableau,1 month,14500,Private,Online
+642,Graphic Design Intern,LexGuard Associates,Design,Ranchi,Illustrator|Java|R|React|UI/UX,3 months,15000,NGO,Offline
+643,Learning Design Intern,Spectrum Media House,Education,Surat,C++|Excel|React|SQL,2 months,3500,NGO,Hybrid
+644,Business Intelligence Intern,DataPulse Analytics,Data Analytics,Hyderabad,Content Writing|Excel|Illustrator|Python|SEO|SPSS|Tableau,6 months,7000,NGO,Online
+645,Legal Research Intern (2),Insight Finance Group,Law,Noida,AutoCAD|Content Writing|Figma|SQL|SolidWorks|Tally,1 month,6500,Govt,Offline
+646,Investment Research Intern,MapCraft GIS,Finance,Ranchi,Canva|Digital Marketing|Excel|Power BI|R|SQL|Tally,2 months,4000,PSU,Online
+647,Spatial Data Intern,MapCraft GIS,GIS,Nagpur,Excel|Photoshop|Power BI|Python|QGIS|Tableau,6 months,14500,NGO,Online
+648,Product Design Intern,HealthSphere Analytics,Design,Mysuru,Canva|Illustrator|Java|JavaScript|Python|Tableau|UI/UX,6 months,11000,PSU,Offline
+649,Data Analyst Intern,FutureWave Tech,Data Analytics,Pune,C|CSS|Power BI|R|SQL,2 months,4500,NGO,Offline
+650,Compliance Intern,HealthSphere Analytics,Law,Mumbai,Content Writing|Digital Marketing|Figma|JavaScript|Photoshop|Research|SEO,3 months,7500,NGO,Hybrid
+651,Travel Operations Intern,PolicyWorks India,Tourism,Kolkata,AutoCAD|Content Writing|Excel|Networking|QGIS,2 months,3000,Startup,Offline
+652,Solar Projects Intern,Spectrum Media House,Renewable Energy,Indore,AutoCAD|Digital Marketing|JavaScript|Research|SEO|SPSS,3 months,4000,NGO,Offline
+653,GIS Mapping Intern,DataPulse Analytics,GIS,Raipur,ArcGIS|Excel|Illustrator|JavaScript|QGIS|R|SQL,1 month,12500,NGO,Online
+654,Travel Operations Intern,FutureWave Tech,Tourism,Mysuru,Excel|GST|Illustrator|Networking|SEO|Tally,2 months,13500,PSU,Offline
+655,Academic Research Intern (2),NextGen Logistics,Education,Gurugram,Content Writing|Excel|Power BI|React|Research|SEO,3 months,13500,NGO,Online
+656,Legal Research Intern,LexGuard Associates,Law,Raipur,ArcGIS|AutoCAD|Content Writing|Digital Marketing|HTML|Research,2 months,3000,NGO,Online
+657,Healthcare Data Intern,HealthSphere Analytics,Healthcare,Bengaluru,C|Excel|Java|SPSS,6 months,14500,Startup,Offline
+658,Legal Research Intern,Skyline Innovations,Law,Nagpur,Content Writing|Linux|Research|SPSS|UI/UX,1 month,7500,NGO,Offline
+659,Spatial Data Intern,FutureWave Tech,GIS,Kolkata,Excel|Figma|GST|Tally,3 months,3000,Govt,Offline
+660,Cyber Risk Intern,NextGen Logistics,Cybersecurity,Jaipur,GST|Linux|Python|React|UI/UX,6 months,9000,Govt,Hybrid
+661,Security Analyst Intern,DataPulse Analytics,Cybersecurity,Guwahati,CSS|Canva|Linux|Networking|Python|UI/UX,6 months,7000,PSU,Online
+662,Software Intern,CivicLink Foundation,IT,Pune,Excel|Java|Python|SQL|Typing,3 months,9500,Private,Hybrid
+663,Academic Research Intern,DataPulse Analytics,Education,Chandigarh,ArcGIS|Content Writing|Excel|JavaScript|Research|SPSS,2 months,5000,Startup,Online
+664,Business Intelligence Intern,EduBridge Alliance,Data Analytics,Mysuru,Digital Marketing|Java|Python|R|Research|Tableau,2 months,14000,NGO,Offline
+665,Clinical Research Intern,Spectrum Media House,Healthcare,Lucknow,Content Writing|Java|Networking|React|Research|SEO|Typing,6 months,10000,Private,Online
+666,Product Design Intern (2),Skyline Innovations,Design,Thiruvananthapuram,CSS|Canva|Excel|Photoshop|Python,3 months,13500,PSU,Hybrid
+667,Legal Research Intern,Skyline Innovations,Law,Bhopal,Canva|Content Writing|Networking|Photoshop|React|Research,3 months,10000,Govt,Online
+668,Learning Design Intern,EduBridge Alliance,Education,Nagpur,AutoCAD|Content Writing|Excel|Illustrator|Photoshop|Python|SolidWorks|Tally,2 months,14000,Startup,Online
+669,Healthcare Data Intern,Insight Finance Group,Healthcare,Nagpur,Digital Marketing|Excel|QGIS|R|Research,3 months,11000,NGO,Offline
+670,Finance Analyst Intern (2),GreenGrowth Initiatives,Finance,Remote,Data Entry|Digital Marketing|Excel|SQL|Tableau,6 months,6500,Private,Online
+671,Operations Intern,BrightPath Designs,Logistics,Chandigarh,Content Writing|React|SQL|Typing,3 months,3000,Startup,Offline
+672,GIS Mapping Intern,EduBridge Alliance,GIS,Thiruvananthapuram,ArcGIS|Excel|HTML|Linux|QGIS|Tableau,2 months,15000,Startup,Offline
+673,Social Media Intern,FutureWave Tech,Media,Bengaluru,Digital Marketing|JavaScript|SEO|SolidWorks,2 months,6500,PSU,Offline
+674,Field Operations Intern,Insight Finance Group,Agriculture,Nagpur,Data Entry|Excel|R|SEO|SQL,6 months,10000,PSU,Hybrid
+675,Graphic Design Intern (2),Spectrum Media House,Design,Mumbai,C++|Canva|Excel|Photoshop|R,1 month,4500,NGO,Hybrid
+676,Investment Research Intern,Innovate Labs,Finance,Jaipur,ArcGIS|AutoCAD|Data Entry|Excel|Figma|Photoshop|Python|React|SQL,3 months,12500,NGO,Online
+677,Graphic Design Intern,AgriNova Collective,Design,Noida,CSS|Canva|Illustrator|JavaScript|Python|Typing,1 month,11000,Startup,Offline
+678,Tour Planning Intern,GreenGrowth Initiatives,Tourism,Mysuru,CSS|Content Writing|Digital Marketing|Tableau|Tally,2 months,10500,Govt,Online
+679,Sustainability Intern,MapCraft GIS,Renewable Energy,Patna,AutoCAD|Content Writing|GST|React|SEO|UI/UX,1 month,4500,Private,Hybrid
+680,GIS Mapping Intern,AgriNova Collective,GIS,Ranchi,CSS|Canva|Content Writing|Excel|GST|Illustrator|Java|QGIS,1 month,15000,Private,Online
+681,Clinical Research Intern,EduBridge Alliance,Healthcare,Jaipur,Excel|HTML|Java|Python|SolidWorks,1 month,6500,Govt,Offline
+682,Graphic Design Intern,Skyline Innovations,Design,Gurugram,Canva|Figma|Illustrator|Linux|SolidWorks|UI/UX,3 months,10500,NGO,Offline
+683,Policy Research Intern,Insight Finance Group,Public Policy,Raipur,Content Writing|Digital Marketing|Excel|React|Research,2 months,11000,Govt,Offline
+684,Learning Design Intern,NextGen Logistics,Education,Remote,ArcGIS|Content Writing|JavaScript|R|Research|SEO,1 month,13000,Private,Online
+685,Graphic Design Intern,HealthSphere Analytics,Design,Kolkata,CSS|Figma|Linux|Power BI|SQL|Tableau,1 month,7000,Startup,Online
+686,Operations Intern,UrbanRise Solutions,Logistics,Remote,Excel|Illustrator|Power BI|R|SQL,3 months,15000,PSU,Online
+687,Cyber Risk Intern,PolicyWorks India,Cybersecurity,Bengaluru,CSS|Linux|Networking|UI/UX,6 months,15000,NGO,Online
+688,Digital Governance Intern,Skyline Innovations,E-Governance,Chennai,Canva|Content Writing|Excel|JavaScript|R|React|SQL,6 months,14000,Govt,Hybrid
+689,Agri Research Intern,Skyline Innovations,Agriculture,Ahmedabad,ArcGIS|C++|Data Entry|UI/UX,2 months,13500,Govt,Online
+690,Investment Research Intern,FutureWave Tech,Finance,Ahmedabad,Excel|GST|Photoshop|Research|SQL|Typing,1 month,4000,Private,Hybrid
+691,Digital Governance Intern,HealthSphere Analytics,E-Governance,Mysuru,JavaScript|QGIS|React|Research|SPSS|SQL|UI/UX,3 months,10500,NGO,Online
+692,Finance Analyst Intern,Innovate Labs,Finance,Mumbai,Digital Marketing|Python|SPSS|SolidWorks|Typing,1 month,13000,PSU,Hybrid
+693,Spatial Data Intern,Skyline Innovations,GIS,Hyderabad,ArcGIS|Excel|Figma|Python|QGIS|R,2 months,5500,Startup,Online
+694,Social Media Intern,FutureWave Tech,Media,Mumbai,C++|Canva|Figma|Research|SEO,1 month,8000,Govt,Offline
+695,Compliance Intern,EduBridge Alliance,Law,Delhi,C++|Content Writing|GST|Networking|Photoshop|React|SPSS,2 months,9000,Private,Hybrid
+696,Academic Research Intern,CivicLink Foundation,Education,Chandigarh,Content Writing|Excel|HTML|Java|JavaScript|Networking|Research|SEO,6 months,11500,Private,Offline
+697,Field Operations Intern,AgriNova Collective,Agriculture,Nagpur,Illustrator|React|Research|SPSS|UI/UX,1 month,9500,PSU,Offline
+698,Clinical Research Intern,UrbanRise Solutions,Healthcare,Indore,AutoCAD|C++|Content Writing|Digital Marketing|Excel|GST|Photoshop|Research|SPSS,1 month,5500,Govt,Offline
+699,Software Intern (2),DataPulse Analytics,IT,Bhopal,C|CSS|Content Writing|Figma|Java|JavaScript|Power BI|Tableau,2 months,11000,NGO,Online
+700,Legal Research Intern,DataPulse Analytics,Law,Mumbai,Content Writing|Digital Marketing|Excel|QGIS|Research|SEO|SPSS|Tableau,3 months,10500,Govt,Hybrid
+701,Clinical Research Intern,MapCraft GIS,Healthcare,Visakhapatnam,C++|Networking|React|SPSS|SolidWorks,2 months,7000,NGO,Online
+702,Product Design Intern,Innovate Labs,Design,Surat,CSS|Digital Marketing|Figma|SPSS,1 month,10500,NGO,Hybrid
+703,Content Strategist Intern,PolicyWorks India,Media,Noida,C|CSS|Canva|Digital Marketing|Java|Python|SEO,1 month,8500,PSU,Hybrid
+704,Digital Governance Intern,GreenGrowth Initiatives,E-Governance,Kolkata,Excel|Figma|Research|SolidWorks,6 months,9000,Govt,Online
+705,Clinical Research Intern,Spectrum Media House,Healthcare,Nagpur,Excel|JavaScript|Python|Research|SPSS|Tableau,3 months,4500,NGO,Hybrid
+706,Spatial Data Intern,PolicyWorks India,GIS,Thiruvananthapuram,Excel|GST|HTML|Power BI|SQL,6 months,14000,PSU,Offline
+707,Tour Planning Intern,NextGen Logistics,Tourism,Mumbai,Content Writing|Digital Marketing|Excel|JavaScript|Research,1 month,11500,Govt,Online
+708,Compliance Intern,TourEase Travels,Law,Indore,Canva|Content Writing|Excel|Networking|Photoshop|Python|Research,2 months,6000,PSU,Offline
+709,Content Strategist Intern,PolicyWorks India,Media,Delhi,Digital Marketing|Figma|GST|Java|JavaScript|Power BI|SEO,6 months,3500,NGO,Online
+710,Digital Governance Intern,PolicyWorks India,E-Governance,Remote,Excel|R|Research|SQL,2 months,4000,NGO,Offline
+711,Agri Research Intern,LexGuard Associates,Agriculture,Kochi,AutoCAD|Data Entry|HTML|Networking|Power BI,2 months,7000,NGO,Online
+712,GIS Mapping Intern,Insight Finance Group,GIS,Indore,ArcGIS|Canva|Data Entry|Illustrator|SEO|SPSS|Tally,1 month,4500,NGO,Online
+713,Investment Research Intern,FutureWave Tech,Finance,Hyderabad,C|GST|Illustrator|Python|UI/UX,3 months,11000,Private,Offline
+714,Investment Research Intern,LexGuard Associates,Finance,Ahmedabad,AutoCAD|Canva|Data Entry|Digital Marketing|Power BI|SPSS|Tally|UI/UX,3 months,10000,PSU,Hybrid
+715,Digital Governance Intern,MapCraft GIS,E-Governance,Surat,AutoCAD|Digital Marketing|HTML|SQL|UI/UX,3 months,10000,PSU,Hybrid
+716,Digital Governance Intern,AgriNova Collective,E-Governance,Jaipur,Data Entry|Excel|Figma|Illustrator|JavaScript|SQL|Typing,3 months,8500,Private,Offline
+717,Social Media Intern,Insight Finance Group,Media,Hyderabad,AutoCAD|C|Data Entry|Digital Marketing|Java|Power BI|QGIS,1 month,5500,Govt,Hybrid
+718,Policy Research Intern,Innovate Labs,Public Policy,Chennai,Content Writing|Digital Marketing|Excel|Linux|Python|R|Research|UI/UX,1 month,12000,Govt,Online
+719,Field Operations Intern,LexGuard Associates,Agriculture,Indore,JavaScript|Photoshop|Research|SEO|SPSS|Tally,6 months,4000,Private,Hybrid
+720,Security Analyst Intern,Spectrum Media House,Cybersecurity,Surat,Excel|GST|Linux|Networking|Python|QGIS|Tableau,1 month,6500,Govt,Hybrid
+721,Digital Governance Intern,NextGen Logistics,E-Governance,Raipur,CSS|Excel|Figma|HTML|Java|Research|SEO|SQL|Tableau,2 months,13500,NGO,Offline
+722,Content Strategist Intern,MapCraft GIS,Media,Delhi,AutoCAD|C++|Canva|Content Writing|Data Entry|SEO|SPSS|SolidWorks|Typing,2 months,10000,Private,Hybrid
+723,Governance Analyst Intern,SecureNet Systems,Public Policy,Chandigarh,Canva|Content Writing|Excel|Illustrator|Java|Research,1 month,15000,PSU,Offline
+724,Operations Intern,AgriNova Collective,Logistics,Ranchi,Excel|Photoshop|Tableau|Tally,1 month,15000,Private,Offline
+725,Digital Governance Intern,LexGuard Associates,E-Governance,Lucknow,C|HTML|Python|Research|SolidWorks,1 month,7500,Govt,Offline
+726,Compliance Intern,Innovate Labs,Law,Bengaluru,C|Content Writing|JavaScript|Linux|Photoshop|Power BI|Research|UI/UX,1 month,12500,Govt,Online
+727,Investment Research Intern,PolicyWorks India,Finance,Gurugram,Excel|JavaScript|Linux|Power BI|QGIS|Research|Tally,6 months,5500,Govt,Online
+728,IT Support Intern,DataPulse Analytics,IT,Ranchi,Digital Marketing|HTML|Java|React|SEO,1 month,11000,Govt,Hybrid
+729,Learning Design Intern,SecureNet Systems,Education,Thiruvananthapuram,ArcGIS|C|C++|Content Writing|Excel|Java|SEO,1 month,4500,PSU,Offline
+730,Business Intelligence Intern,Insight Finance Group,Data Analytics,Indore,Illustrator|Power BI|Python|SPSS|SQL|Tableau|Typing,3 months,5500,PSU,Online
+731,Learning Design Intern,UrbanRise Solutions,Education,Patna,C|Content Writing|Data Entry|Java|React,2 months,12000,Private,Online
+732,Investment Research Intern,TourEase Travels,Finance,Guwahati,C++|Canva|Excel|GST|Python|UI/UX,2 months,14500,Private,Offline
+733,Supply Chain Intern,EcoVision Energy,Logistics,Kolkata,C|CSS|Digital Marketing|Excel|Networking|SPSS|SolidWorks,1 month,12000,Private,Online
+734,Software Intern,Insight Finance Group,IT,Pune,ArcGIS|C|Digital Marketing|GST|Java|JavaScript|Typing,2 months,12000,PSU,Offline
+735,Business Intelligence Intern,BrightPath Designs,Data Analytics,Noida,ArcGIS|AutoCAD|Excel|HTML|JavaScript|R|React|SolidWorks,3 months,7500,PSU,Hybrid
+736,Business Intelligence Intern,SecureNet Systems,Data Analytics,Ranchi,Content Writing|Excel|Power BI|SolidWorks|UI/UX,6 months,7000,PSU,Online
+737,Travel Operations Intern,Spectrum Media House,Tourism,Chennai,ArcGIS|C++|Content Writing|Digital Marketing|Excel|JavaScript|Networking,1 month,6500,NGO,Hybrid
+738,Security Analyst Intern,EduBridge Alliance,Cybersecurity,Bhopal,GST|Python|SEO,2 months,5500,Private,Hybrid
+739,Security Analyst Intern,MapCraft GIS,Cybersecurity,Patna,Canva|Data Entry|JavaScript|Linux|Networking|Python|R|SolidWorks|Tally,1 month,6000,PSU,Hybrid
+740,Policy Research Intern,GreenGrowth Initiatives,Public Policy,Bengaluru,CSS|Content Writing|Excel|Illustrator|Power BI|Research|Typing,3 months,3000,Govt,Hybrid
+741,Travel Operations Intern,HealthSphere Analytics,Tourism,Bhopal,Digital Marketing|Power BI|Research|SPSS|Tableau|Tally,3 months,12000,Startup,Offline
+742,Tour Planning Intern,FutureWave Tech,Tourism,Lucknow,Content Writing|Digital Marketing|Excel|Photoshop|Research,2 months,5500,PSU,Offline
+743,Clinical Research Intern,Spectrum Media House,Healthcare,Guwahati,AutoCAD|C++|Digital Marketing|Excel|JavaScript|Python|SPSS,1 month,8000,Private,Hybrid
+744,Learning Design Intern,TourEase Travels,Education,Chennai,AutoCAD|Content Writing|Excel|R|Research|SolidWorks|UI/UX,3 months,4000,Startup,Online
+745,Agri Research Intern,SecureNet Systems,Agriculture,Guwahati,Excel|HTML|Illustrator|R|Research|SPSS,2 months,10000,Startup,Online
+746,Travel Operations Intern,PolicyWorks India,Tourism,Ahmedabad,Canva|Digital Marketing|Excel|Illustrator|Networking|QGIS|Tally,2 months,3500,PSU,Online
+747,Digital Governance Intern,EduBridge Alliance,E-Governance,Mumbai,C++|Power BI|Research|SQL|SolidWorks,1 month,10000,Startup,Hybrid
+748,Tour Planning Intern,FutureWave Tech,Tourism,Surat,Canva|Content Writing|Digital Marketing|Illustrator|Power BI|Python,1 month,10000,PSU,Online
+749,Learning Design Intern,SecureNet Systems,Education,Kochi,Content Writing|Excel|JavaScript|Networking|Research,6 months,6500,Startup,Offline
+750,Cyber Risk Intern,FutureWave Tech,Cybersecurity,Delhi,AutoCAD|Data Entry|Linux|Networking|Power BI|Python|Research|Typing,6 months,10500,Startup,Online
+751,Legal Research Intern,NextGen Logistics,Law,Bhopal,Canva|Content Writing|GST|Photoshop|Research|SPSS|SolidWorks,6 months,8000,Startup,Offline
+752,Academic Research Intern,DataPulse Analytics,Education,Bengaluru,C|Excel|Photoshop|R|Research,1 month,10500,Private,Hybrid
+753,Civic Tech Intern,NextGen Logistics,E-Governance,Raipur,C|C++|Content Writing|Excel|Python|QGIS|Research|SQL|SolidWorks,3 months,8500,NGO,Offline
+754,Supply Chain Intern,Spectrum Media House,Logistics,Pune,CSS|Excel|JavaScript|Photoshop|Power BI|SQL|UI/UX,3 months,12000,Startup,Online
+755,Operations Intern (2),BrightPath Designs,Logistics,Chandigarh,ArcGIS|JavaScript|R|SEO|SQL|Tally|Typing,6 months,6500,Startup,Hybrid
+756,Product Design Intern,TourEase Travels,Design,Mysuru,Canva|Illustrator|Photoshop|Python|React|Typing,2 months,12000,NGO,Offline
+757,Data Analyst Intern,TourEase Travels,Data Analytics,Hyderabad,CSS|Content Writing|Networking|Power BI|SQL|Tableau,6 months,4000,Govt,Hybrid
+758,Social Media Intern,Innovate Labs,Media,Chandigarh,ArcGIS|Canva|Content Writing|Photoshop,3 months,11000,NGO,Online
+759,Field Operations Intern,HealthSphere Analytics,Agriculture,Thiruvananthapuram,C|Data Entry|Excel|GST|Java|Photoshop|R|SPSS,1 month,5000,Startup,Offline
+760,Legal Research Intern (2),Innovate Labs,Law,Thiruvananthapuram,C|Excel|Java|QGIS|Research|SQL,6 months,9500,NGO,Offline
+761,Operations Intern,Innovate Labs,Logistics,Delhi,CSS|Excel|GST|HTML|Photoshop|Power BI|SQL,1 month,10500,NGO,Online
+762,Supply Chain Intern (2),Innovate Labs,Logistics,Bengaluru,AutoCAD|Power BI|Python|QGIS|React|Tableau|Tally,3 months,13500,Startup,Online
+763,GIS Mapping Intern,CivicLink Foundation,GIS,Remote,ArcGIS|Excel|GST|JavaScript|Python|QGIS|SolidWorks|Tableau,2 months,14000,PSU,Online
+764,Civic Tech Intern,Spectrum Media House,E-Governance,Noida,C++|Canva|Excel|Photoshop|Python|Research|SQL,6 months,13500,Govt,Hybrid
+765,Social Media Intern,Insight Finance Group,Media,Mysuru,Digital Marketing|Java|JavaScript|Photoshop|SPSS|Tally|UI/UX,3 months,11500,Startup,Offline
+766,Tour Planning Intern,AgriNova Collective,Tourism,Chennai,Data Entry|Excel|SEO|UI/UX,6 months,3000,Private,Online
+767,Operations Intern,LexGuard Associates,Logistics,Mumbai,CSS|Content Writing|Research|SEO|SQL|SolidWorks,6 months,13000,Private,Offline
+768,Legal Research Intern,AgriNova Collective,Law,Bhopal,Canva|Content Writing|Data Entry|Power BI|React|Research,2 months,10000,NGO,Hybrid
+769,Content Strategist Intern,TourEase Travels,Media,Hyderabad,Canva|Digital Marketing|Illustrator|Photoshop|SEO|SolidWorks,2 months,13000,NGO,Offline
+770,Product Design Intern,GreenGrowth Initiatives,Design,Raipur,CSS|Content Writing|Illustrator|React|SEO|Typing|UI/UX,3 months,7000,NGO,Hybrid
+771,Investment Research Intern,DataPulse Analytics,Finance,Mysuru,Excel|GST|JavaScript|Linux|Python|React|Tally,3 months,7000,Startup,Online
+772,Investment Research Intern,FutureWave Tech,Finance,Gurugram,C|C++|GST|R,2 months,3500,NGO,Hybrid
+773,Learning Design Intern,Skyline Innovations,Education,Hyderabad,C++|Content Writing|Data Entry|Digital Marketing|Excel|Python|Research|SQL|UI/UX,3 months,13000,Govt,Offline
+774,Product Design Intern,TourEase Travels,Design,Ranchi,Canva|Digital Marketing|Illustrator|Java|Networking|Photoshop,6 months,4500,PSU,Offline
+775,Cyber Risk Intern,Insight Finance Group,Cybersecurity,Noida,Figma|HTML|Java|Linux|Networking|Photoshop|Power BI|Python|QGIS,2 months,11500,NGO,Online
+776,Security Analyst Intern,DataPulse Analytics,Cybersecurity,Ahmedabad,C|Content Writing|Java|Power BI|Python|Research,6 months,3500,Govt,Online
+777,Data Analyst Intern,AgriNova Collective,Data Analytics,Ahmedabad,AutoCAD|Excel|Java|Power BI|R|SolidWorks|Tableau,2 months,3500,Govt,Hybrid
+778,GIS Mapping Intern,UrbanRise Solutions,GIS,Guwahati,Canva|Excel|Figma|Python|QGIS|Tableau|Tally,1 month,3000,Private,Offline
+779,Compliance Intern,NextGen Logistics,Law,Chennai,ArcGIS|Content Writing|Digital Marketing|HTML|Research|SolidWorks|UI/UX,2 months,13500,Private,Online
+780,Academic Research Intern,BrightPath Designs,Education,Indore,ArcGIS|AutoCAD|C++|Content Writing|Python|Research|SQL,1 month,3500,Govt,Hybrid
+781,Graphic Design Intern,EcoVision Energy,Design,Patna,Canva|Figma|GST|HTML|Power BI,2 months,13500,PSU,Offline
+782,Compliance Intern,FutureWave Tech,Law,Nagpur,ArcGIS|Content Writing|Data Entry|Photoshop|Research|SPSS|Typing|UI/UX,3 months,9000,PSU,Hybrid
+783,Governance Analyst Intern,Innovate Labs,Public Policy,Raipur,C++|Content Writing|Excel|R|Research|SQL,6 months,14000,NGO,Offline
+784,Sustainability Intern,NextGen Logistics,Renewable Energy,Ranchi,AutoCAD|Canva|Excel|Figma|Research|SEO,3 months,7500,Private,Online
+785,Product Design Intern (2),Innovate Labs,Design,Surat,C++|Canva|Data Entry|JavaScript|Research|SEO|SolidWorks,2 months,6000,Startup,Hybrid
+786,Civic Tech Intern (2),HealthSphere Analytics,E-Governance,Jaipur,C|Excel|HTML|JavaScript|Research|SQL,6 months,6500,Govt,Offline
+787,Finance Analyst Intern,BrightPath Designs,Finance,Chennai,GST|Linux|Python|Research|Tally,1 month,6000,Govt,Offline
+788,Travel Operations Intern,SecureNet Systems,Tourism,Nagpur,C++|Content Writing|Figma|R,3 months,13000,NGO,Online
+789,Sustainability Intern,NextGen Logistics,Renewable Energy,Patna,AutoCAD|C++|Canva|HTML|Linux|Python|Research,1 month,11500,Govt,Offline
+790,Supply Chain Intern,TourEase Travels,Logistics,Noida,C++|Canva|Content Writing|Excel|Figma|Java|JavaScript|Power BI,3 months,8500,Private,Online
+791,Solar Projects Intern,PolicyWorks India,Renewable Energy,Visakhapatnam,AutoCAD|Figma|JavaScript|Networking|SolidWorks,2 months,12000,Private,Hybrid
+792,Governance Analyst Intern,EcoVision Energy,Public Policy,Ranchi,AutoCAD|CSS|Excel|Power BI|R|Research|UI/UX,3 months,11000,Private,Online
+793,Cyber Risk Intern,EduBridge Alliance,Cybersecurity,Mumbai,Content Writing|Networking|Photoshop|Python|SQL|SolidWorks,3 months,15000,Private,Online
+794,Governance Analyst Intern,UrbanRise Solutions,Public Policy,Lucknow,C++|Content Writing|Excel|SPSS|Tally|Typing,6 months,14500,Startup,Offline
+795,Graphic Design Intern,SecureNet Systems,Design,Delhi,C|Excel|Figma|HTML|React|UI/UX,3 months,10000,PSU,Offline
+796,Compliance Intern,UrbanRise Solutions,Law,Patna,C++|CSS|Content Writing|Java|Photoshop|Research,3 months,9500,Govt,Offline
+797,Graphic Design Intern,LexGuard Associates,Design,Chandigarh,Canva|Figma|Illustrator|JavaScript|Python|Research|SPSS|Tableau,3 months,10500,PSU,Online
+798,Clinical Research Intern,UrbanRise Solutions,Healthcare,Kolkata,Excel|Linux|Research|SPSS,6 months,7500,Private,Online
+799,Supply Chain Intern,Insight Finance Group,Logistics,Visakhapatnam,Figma|GST|Photoshop|SQL|SolidWorks,2 months,9000,Startup,Hybrid
+800,Data Analyst Intern,EcoVision Energy,Data Analytics,Indore,ArcGIS|Excel|Linux|Power BI|Python|R|SPSS|SQL|SolidWorks,6 months,11000,Startup,Hybrid
+801,Agri Research Intern,SecureNet Systems,Agriculture,Mumbai,C++|Data Entry|Excel|SPSS|SolidWorks|UI/UX,2 months,10500,NGO,Hybrid
+802,Content Strategist Intern,MapCraft GIS,Media,Bengaluru,Content Writing|Figma|GST|Linux|Photoshop|QGIS|UI/UX,3 months,4000,Private,Offline
+803,Academic Research Intern (2),FutureWave Tech,Education,Ranchi,C++|Content Writing|Excel|Linux|Research,3 months,6000,Private,Hybrid
+804,Spatial Data Intern,LexGuard Associates,GIS,Pune,ArcGIS|CSS|Digital Marketing|Excel|Figma|QGIS|SPSS,1 month,6000,NGO,Hybrid
+805,Policy Research Intern,DataPulse Analytics,Public Policy,Mysuru,C++|Figma|Research,2 months,4000,Private,Hybrid
+806,GIS Mapping Intern,Insight Finance Group,GIS,Patna,ArcGIS|AutoCAD|Excel|Photoshop|Power BI|QGIS|R|Research|SPSS,6 months,8500,NGO,Online
+807,Finance Analyst Intern,GreenGrowth Initiatives,Finance,Gurugram,C++|Canva|Digital Marketing|Photoshop|Power BI|Tally,3 months,14000,PSU,Online
+808,Travel Operations Intern,HealthSphere Analytics,Tourism,Ranchi,Content Writing|Digital Marketing|Excel|Illustrator|JavaScript|React|Research,2 months,7500,Private,Offline
+809,Cyber Risk Intern,DataPulse Analytics,Cybersecurity,Bengaluru,C++|GST|Linux|Networking|Photoshop,1 month,10000,PSU,Hybrid
+810,Software Intern,BrightPath Designs,IT,Thiruvananthapuram,C++|CSS|Java|Networking|Python|SolidWorks,1 month,9000,Private,Offline
+811,Field Operations Intern,AgriNova Collective,Agriculture,Jaipur,Data Entry|QGIS|R|SPSS|SQL,1 month,10000,Govt,Online
+812,Graphic Design Intern,TourEase Travels,Design,Kolkata,AutoCAD|C++|Canva|Data Entry|Digital Marketing|Excel|Illustrator|Photoshop|UI/UX,6 months,15000,Private,Hybrid
+813,IT Support Intern,SecureNet Systems,IT,Indore,ArcGIS|CSS|JavaScript|Linux|Networking|R|SQL|SolidWorks,6 months,6000,Private,Online
+814,Sustainability Intern,HealthSphere Analytics,Renewable Energy,Delhi,AutoCAD|Excel|Figma|HTML|Linux|Research,1 month,6500,Private,Hybrid
+815,Product Design Intern,BrightPath Designs,Design,Indore,C|Figma|Photoshop|Python,3 months,8000,Private,Offline
+816,Learning Design Intern,CivicLink Foundation,Education,Visakhapatnam,Content Writing|Excel|Linux|Power BI|Research|SQL,1 month,8000,Startup,Hybrid
+817,Governance Analyst Intern,MapCraft GIS,Public Policy,Ranchi,Content Writing|Excel|Research|SPSS|SolidWorks|UI/UX,1 month,12000,Govt,Offline
+818,Digital Governance Intern,UrbanRise Solutions,E-Governance,Kolkata,C|Illustrator|Power BI|Research|SQL|UI/UX,3 months,3500,Govt,Hybrid
+819,Tour Planning Intern,BrightPath Designs,Tourism,Patna,C|Content Writing|Digital Marketing|Excel|Figma|GST|React,2 months,5000,Private,Online
+820,Finance Analyst Intern,EcoVision Energy,Finance,Ahmedabad,C|Digital Marketing|Excel|Linux|Power BI|QGIS|SPSS,6 months,5500,Startup,Hybrid
+821,Clinical Research Intern,PolicyWorks India,Healthcare,Guwahati,JavaScript|Python|QGIS|Research|SPSS,2 months,3000,NGO,Hybrid
+822,GIS Mapping Intern,Innovate Labs,GIS,Pune,ArcGIS|CSS|Excel|Photoshop|R,6 months,6500,NGO,Hybrid
+823,Field Operations Intern (2),AgriNova Collective,Agriculture,Nagpur,CSS|Data Entry|Excel|GST|React|SPSS|UI/UX,6 months,5000,Private,Hybrid
+824,Spatial Data Intern,DataPulse Analytics,GIS,Gurugram,Digital Marketing|Python|QGIS|R|Tableau,6 months,6500,PSU,Online
+825,Finance Analyst Intern,GreenGrowth Initiatives,Finance,Thiruvananthapuram,Content Writing|Digital Marketing|GST|Java|Python|SPSS|Tally,1 month,10000,Private,Online
+826,Agri Research Intern,PolicyWorks India,Agriculture,Lucknow,Data Entry|Excel|QGIS|SEO|SPSS,3 months,14000,NGO,Online
+827,Solar Projects Intern,HealthSphere Analytics,Renewable Energy,Jaipur,AutoCAD|C++|Excel|HTML|Linux|R|SolidWorks,6 months,12000,Private,Online
+828,Tour Planning Intern (2),AgriNova Collective,Tourism,Chennai,Canva|Content Writing|Digital Marketing|Excel|Linux|SEO|SolidWorks|Tally,6 months,12500,Startup,Offline
+829,Compliance Intern,Skyline Innovations,Law,Patna,AutoCAD|Digital Marketing|JavaScript|Photoshop|Research|Tableau,1 month,7500,PSU,Offline
+830,Legal Research Intern,GreenGrowth Initiatives,Law,Guwahati,CSS|JavaScript|Linux|Research,6 months,13000,Private,Online
+831,IT Support Intern,DataPulse Analytics,IT,Pune,CSS|Excel|Networking|SEO|SPSS|SQL,1 month,8000,Startup,Hybrid
+832,Cyber Risk Intern,AgriNova Collective,Cybersecurity,Hyderabad,ArcGIS|Java|Linux|Power BI,1 month,5000,Govt,Online
+833,Sustainability Intern,FutureWave Tech,Renewable Energy,Mysuru,AutoCAD|C|Digital Marketing|Excel|Illustrator|Networking|Research|SQL,2 months,9000,NGO,Online
+834,Cyber Risk Intern,GreenGrowth Initiatives,Cybersecurity,Jaipur,C++|CSS|Linux|Networking|React|Tally,6 months,6000,Private,Offline
+835,Compliance Intern,Insight Finance Group,Law,Surat,Canva|Excel|GST|Java|R|Research,6 months,8500,NGO,Hybrid
+836,Digital Governance Intern,MapCraft GIS,E-Governance,Kochi,Content Writing|GST|HTML|Research|Tableau,2 months,11500,NGO,Hybrid
+837,Healthcare Data Intern,Skyline Innovations,Healthcare,Bengaluru,CSS|Excel|JavaScript|Tableau,6 months,10500,Govt,Hybrid
+838,Supply Chain Intern,Innovate Labs,Logistics,Kolkata,ArcGIS|Canva|Excel|JavaScript|Power BI|SPSS|SQL|SolidWorks|Tally,1 month,10500,Startup,Online
+839,Legal Research Intern,HealthSphere Analytics,Law,Pune,Content Writing|Excel|QGIS|Research|Tally|Typing,6 months,6500,Private,Online
+840,Digital Governance Intern,AgriNova Collective,E-Governance,Raipur,Excel|Figma|JavaScript|Photoshop|Power BI|Python|SQL|Tally,2 months,15000,PSU,Offline
+841,Security Analyst Intern (2),LexGuard Associates,Cybersecurity,Delhi,ArcGIS|Excel|Linux|Networking|Tally,6 months,5000,NGO,Offline
+842,Spatial Data Intern,BrightPath Designs,GIS,Bhopal,ArcGIS|Excel|HTML|Networking|QGIS,3 months,10500,Startup,Hybrid
+843,Spatial Data Intern,NextGen Logistics,GIS,Mumbai,ArcGIS|CSS|Digital Marketing|Excel|UI/UX,1 month,7500,Govt,Offline
+844,Security Analyst Intern,PolicyWorks India,Cybersecurity,Nagpur,GST|Illustrator|Linux|Python|Research|UI/UX,3 months,7000,Startup,Hybrid
+845,Content Strategist Intern,NextGen Logistics,Media,Raipur,CSS|Content Writing|Digital Marketing|SEO|Tableau,6 months,8000,PSU,Online
+846,Graphic Design Intern,GreenGrowth Initiatives,Design,Patna,Canva|Linux|R|Tableau,1 month,13500,Startup,Online
+847,Compliance Intern,PolicyWorks India,Law,Kolkata,C++|Excel|GST|Networking|Power BI|React|Research,1 month,11500,Private,Hybrid
+848,Graphic Design Intern,PolicyWorks India,Design,Surat,Content Writing|Figma|Networking|Photoshop|UI/UX,3 months,6500,Govt,Online
+849,IT Support Intern,GreenGrowth Initiatives,IT,Guwahati,ArcGIS|C|CSS|Canva|HTML|JavaScript|Linux|QGIS|Research,1 month,5000,PSU,Hybrid
+850,Spatial Data Intern,PolicyWorks India,GIS,Ahmedabad,ArcGIS|Canva|Excel|QGIS|R|Research,2 months,3000,Govt,Hybrid
+851,Investment Research Intern (2),PolicyWorks India,Finance,Gurugram,Excel|Linux|Python|SQL,3 months,10000,Govt,Offline
+852,GIS Mapping Intern,PolicyWorks India,GIS,Thiruvananthapuram,ArcGIS|AutoCAD|Content Writing|Excel|Power BI|QGIS,1 month,7000,NGO,Offline
+853,Legal Research Intern,EduBridge Alliance,Law,Kochi,Content Writing|Figma|Java|React|Research|SolidWorks,3 months,5500,Private,Hybrid
+854,Civic Tech Intern,FutureWave Tech,E-Governance,Thiruvananthapuram,Excel|Figma|Java|Python|Research|UI/UX,6 months,13500,Govt,Online
+855,Digital Governance Intern,AgriNova Collective,E-Governance,Pune,CSS|Data Entry|Excel|GST|Python|R|Research|Tableau,3 months,7500,Govt,Hybrid
+856,Healthcare Data Intern,Innovate Labs,Healthcare,Visakhapatnam,Content Writing|GST|HTML|Python|Research|SPSS,3 months,5000,Startup,Hybrid
+857,Academic Research Intern,Insight Finance Group,Education,Nagpur,Content Writing|Excel|Java|Networking|Power BI|Research,3 months,6500,NGO,Hybrid
+858,Graphic Design Intern,DataPulse Analytics,Design,Patna,Figma|Illustrator|Java|React,2 months,14500,NGO,Hybrid
+859,Field Operations Intern,EduBridge Alliance,Agriculture,Indore,C++|Data Entry|Figma|GST|Research|SPSS|SolidWorks|Tableau,1 month,13000,Startup,Online
+860,Finance Analyst Intern,CivicLink Foundation,Finance,Ranchi,Digital Marketing|Excel|HTML|Java|Networking|SQL|Tableau,3 months,5500,Govt,Online
+861,Investment Research Intern,EcoVision Energy,Finance,Chandigarh,CSS|Data Entry|HTML|SQL|Tally,6 months,4000,Private,Online
+862,Content Strategist Intern,PolicyWorks India,Media,Mumbai,AutoCAD|Canva|Digital Marketing|Java|Python|SPSS|Tally|Typing,2 months,10500,Startup,Offline
+863,Civic Tech Intern,LexGuard Associates,E-Governance,Chandigarh,C|Digital Marketing|Excel|SPSS|SQL|Tableau,3 months,7000,Private,Hybrid
+864,Finance Analyst Intern,LexGuard Associates,Finance,Visakhapatnam,CSS|GST|HTML|JavaScript|Power BI|R,3 months,5500,PSU,Online
+865,Digital Governance Intern,FutureWave Tech,E-Governance,Chandigarh,Content Writing|Digital Marketing|Java|Networking|SQL|Tableau|Typing,2 months,10000,Govt,Online
+866,Cyber Risk Intern,Innovate Labs,Cybersecurity,Nagpur,C++|Data Entry|Linux|QGIS,6 months,12000,NGO,Hybrid
+867,Field Operations Intern,AgriNova Collective,Agriculture,Ahmedabad,Data Entry|Excel|Illustrator|Linux|QGIS|SPSS,6 months,3000,Private,Offline
+868,Digital Governance Intern,MapCraft GIS,E-Governance,Guwahati,ArcGIS|CSS|Figma|Python|SEO|SPSS|Tableau,3 months,10500,Startup,Online
+869,Operations Intern,FutureWave Tech,Logistics,Mysuru,CSS|Digital Marketing|Excel|GST|Photoshop|Power BI,2 months,8000,PSU,Online
+870,Compliance Intern,EduBridge Alliance,Law,Mumbai,CSS|Canva|Content Writing|Python|Research|SPSS|SQL|Tally,3 months,8000,NGO,Offline
+871,Full Stack Intern,EduBridge Alliance,IT,Lucknow,Excel|HTML|Linux|Python|SPSS,1 month,4000,Private,Offline
+872,Governance Analyst Intern,PolicyWorks India,Public Policy,Remote,Content Writing|Excel|GST|React|Research|SQL|Tableau,6 months,15000,Private,Hybrid
+873,Legal Research Intern,PolicyWorks India,Law,Gurugram,CSS|Data Entry|Figma|React|Research|SolidWorks|Tableau,2 months,8500,NGO,Online
+874,Finance Analyst Intern,HealthSphere Analytics,Finance,Bengaluru,AutoCAD|C|Excel|Power BI|SQL|Tableau,1 month,10000,PSU,Hybrid
+875,Legal Research Intern,GreenGrowth Initiatives,Law,Ahmedabad,Content Writing|Data Entry|GST|Linux|Research|SEO,2 months,15000,NGO,Hybrid
+876,GIS Mapping Intern,Insight Finance Group,GIS,Nagpur,ArcGIS|Data Entry|Excel|Photoshop|QGIS|SPSS|UI/UX,3 months,13500,Private,Online
+877,Content Strategist Intern,LexGuard Associates,Media,Ranchi,Content Writing|HTML|Photoshop|R|SEO|Typing,6 months,6500,Private,Online
+878,GIS Mapping Intern,TourEase Travels,GIS,Delhi,Excel|Java|R|React|SEO,1 month,15000,Govt,Hybrid
+879,Software Intern,LexGuard Associates,IT,Kolkata,Data Entry|HTML|Photoshop|Power BI|R,1 month,4000,Startup,Online
+880,GIS Mapping Intern,BrightPath Designs,GIS,Lucknow,ArcGIS|Excel|React|SEO|Tableau,6 months,10500,Startup,Online
+881,Operations Intern,AgriNova Collective,Logistics,Hyderabad,C++|Excel|Linux|QGIS|SQL|Tableau,2 months,15000,PSU,Online
+882,Learning Design Intern,PolicyWorks India,Education,Bengaluru,Canva|Content Writing|Digital Marketing|Figma|Research|SPSS,3 months,4000,PSU,Hybrid
+883,Learning Design Intern,NextGen Logistics,Education,Bhopal,C|Content Writing|GST|Illustrator|Photoshop|QGIS,1 month,4000,NGO,Hybrid
+884,Policy Research Intern,HealthSphere Analytics,Public Policy,Visakhapatnam,Excel|JavaScript|Networking|Photoshop|Research|SQL,1 month,14000,Govt,Hybrid
+885,Operations Intern,FutureWave Tech,Logistics,Pune,Content Writing|Data Entry|Power BI|SQL|Typing|UI/UX,3 months,11000,PSU,Offline
+886,Academic Research Intern,TourEase Travels,Education,Ahmedabad,AutoCAD|C|C++|Content Writing|Digital Marketing|Excel,6 months,5000,Govt,Online
+887,Graphic Design Intern,EcoVision Energy,Design,Thiruvananthapuram,Canva|Excel|Illustrator|Research|UI/UX,3 months,5500,Private,Online
+888,Academic Research Intern,Spectrum Media House,Education,Kolkata,Content Writing|Excel|HTML|Python|SPSS,6 months,7500,Startup,Hybrid
+889,Compliance Intern,FutureWave Tech,Law,Ahmedabad,C++|Canva|Content Writing|Excel|Research|SEO|SPSS,3 months,8000,Private,Online
+890,Cyber Risk Intern,GreenGrowth Initiatives,Cybersecurity,Kochi,CSS|GST|Linux|Networking|Python|SEO,1 month,3000,NGO,Online
+891,Compliance Intern (2),EduBridge Alliance,Law,Delhi,C|Content Writing|Data Entry|QGIS|React|Research,3 months,6000,Private,Online
+892,Travel Operations Intern,EcoVision Energy,Tourism,Visakhapatnam,Content Writing|Data Entry|Digital Marketing|Excel|Figma|Power BI,1 month,3500,Private,Offline
+893,Operations Intern,BrightPath Designs,Logistics,Visakhapatnam,AutoCAD|Excel|GST|React|SPSS|SQL,6 months,12000,Startup,Online
+894,Business Intelligence Intern,PolicyWorks India,Data Analytics,Delhi,AutoCAD|Excel|Figma|GST|JavaScript|Linux|Power BI|R|SPSS,2 months,7000,Private,Offline
+895,Spatial Data Intern,SecureNet Systems,GIS,Lucknow,ArcGIS|AutoCAD|Excel|GST|Photoshop|SolidWorks|Tally,1 month,11000,NGO,Online
+896,Legal Research Intern,FutureWave Tech,Law,Noida,Content Writing|Digital Marketing|Excel|Figma|QGIS|UI/UX,2 months,4500,Govt,Offline
+897,Sustainability Intern,AgriNova Collective,Renewable Energy,Ranchi,AutoCAD|Data Entry|Excel|HTML|Research|Tableau,3 months,7000,NGO,Online
+898,Healthcare Data Intern,HealthSphere Analytics,Healthcare,Gurugram,Digital Marketing|Networking|Research|Tableau|UI/UX,2 months,14500,Private,Hybrid
+899,Tour Planning Intern,MapCraft GIS,Tourism,Guwahati,Canva|Content Writing|Digital Marketing|Excel|Linux|Power BI|Python|QGIS|SolidWorks,3 months,3500,Govt,Hybrid
+900,Graphic Design Intern,EcoVision Energy,Design,Guwahati,C++|Data Entry|Excel|Illustrator|SQL|Tableau|Tally,1 month,3500,Govt,Hybrid
+901,Business Intelligence Intern,Insight Finance Group,Data Analytics,Bengaluru,Canva|Illustrator|Linux|Power BI|React|Tableau,1 month,15000,PSU,Online
+902,Academic Research Intern,TourEase Travels,Education,Thiruvananthapuram,C++|Content Writing|QGIS|Research|Tableau,3 months,3000,Startup,Hybrid
+903,Supply Chain Intern,EcoVision Energy,Logistics,Pune,AutoCAD|Content Writing|Excel|Networking|Power BI|SQL,1 month,5500,Startup,Hybrid
+904,Travel Operations Intern,DataPulse Analytics,Tourism,Lucknow,C|Content Writing|Digital Marketing|Excel|HTML|SQL,1 month,10000,Startup,Online
+905,IT Support Intern,BrightPath Designs,IT,Lucknow,ArcGIS|AutoCAD|CSS|Canva|Linux|R|Tally|UI/UX,2 months,13000,PSU,Online
+906,Sustainability Intern,DataPulse Analytics,Renewable Energy,Mumbai,AutoCAD|Canva|Digital Marketing|Excel|Java|JavaScript|Research,6 months,10000,Startup,Hybrid
+907,Product Design Intern,DataPulse Analytics,Design,Indore,ArcGIS|Canva|Excel|Figma|R,3 months,5500,Private,Hybrid
+908,Investment Research Intern,BrightPath Designs,Finance,Kolkata,CSS|Excel|GST|Python|SPSS|Typing,6 months,14000,NGO,Online
+909,Finance Analyst Intern,TourEase Travels,Finance,Mumbai,C|CSS|GST|Python|Tally|Typing,1 month,6500,Startup,Online
+910,Agri Research Intern,UrbanRise Solutions,Agriculture,Chandigarh,Digital Marketing|Figma|Networking|Python|SPSS|SQL,6 months,11000,NGO,Online
+911,Travel Operations Intern,DataPulse Analytics,Tourism,Nagpur,Content Writing|Digital Marketing|Excel|Java|Photoshop|Tally|UI/UX,3 months,4500,NGO,Hybrid
+912,Cyber Risk Intern,Innovate Labs,Cybersecurity,Bengaluru,ArcGIS|Canva|Digital Marketing|Networking|React|Research|SolidWorks,3 months,7000,PSU,Hybrid
+913,Social Media Intern,MapCraft GIS,Media,Pune,C++|Canva|Content Writing|Digital Marketing|SEO|SPSS|SQL|Tally,6 months,3000,NGO,Offline
+914,Policy Research Intern,Skyline Innovations,Public Policy,Guwahati,C|Canva|Content Writing|Illustrator|Photoshop|Research|UI/UX,2 months,12000,PSU,Online
+915,Healthcare Data Intern,MapCraft GIS,Healthcare,Remote,Excel|HTML|Python|SPSS|Tableau,3 months,12500,Govt,Offline
+916,GIS Mapping Intern,TourEase Travels,GIS,Nagpur,Content Writing|Illustrator|QGIS|Tally,3 months,4500,Startup,Offline
+917,Operations Intern,Insight Finance Group,Logistics,Raipur,Excel|Figma|Illustrator|Power BI|SEO,2 months,15000,Private,Online
+918,Supply Chain Intern,GreenGrowth Initiatives,Logistics,Surat,C++|CSS|Excel|Figma|Photoshop|Power BI,6 months,5000,Startup,Offline
+919,Solar Projects Intern,Spectrum Media House,Renewable Energy,Surat,Excel|GST|Networking|Research|Tableau,3 months,10000,Startup,Hybrid
+920,Compliance Intern,LexGuard Associates,Law,Guwahati,ArcGIS|AutoCAD|Content Writing|Digital Marketing|JavaScript|Research,2 months,8500,NGO,Online
+921,Social Media Intern,Insight Finance Group,Media,Kolkata,Canva|Content Writing|Data Entry|SEO|SPSS|Tally,1 month,6500,Private,Online
+922,Product Design Intern,EcoVision Energy,Design,Remote,C++|HTML|Illustrator|Power BI|UI/UX,3 months,10000,Startup,Online
+923,Academic Research Intern,FutureWave Tech,Education,Patna,Excel|Java|R|React|Research,2 months,7000,NGO,Online
+924,Legal Research Intern (2),Insight Finance Group,Law,Lucknow,Data Entry|HTML|Illustrator|Power BI|Research|SEO|Tableau,6 months,7500,NGO,Offline
+925,Supply Chain Intern,DataPulse Analytics,Logistics,Mysuru,Excel|HTML|Photoshop|SQL|UI/UX,3 months,3000,Startup,Offline
+926,Digital Governance Intern,Spectrum Media House,E-Governance,Mumbai,Data Entry|Excel|Illustrator|Research|SQL|Typing|UI/UX,6 months,9000,Private,Offline
+927,Finance Analyst Intern,MapCraft GIS,Finance,Ranchi,CSS|Content Writing|Digital Marketing|Power BI|Tally,6 months,5500,Govt,Hybrid
+928,Product Design Intern,DataPulse Analytics,Design,Visakhapatnam,Excel|SPSS|SolidWorks|UI/UX,3 months,9500,NGO,Online
+929,Tour Planning Intern,Skyline Innovations,Tourism,Lucknow,C|C++|Content Writing|Excel|Figma|React|SolidWorks,3 months,5500,Govt,Hybrid
+930,Digital Governance Intern,CivicLink Foundation,E-Governance,Remote,AutoCAD|QGIS|Research|SEO|SQL,6 months,3500,Private,Offline
+931,Clinical Research Intern,Innovate Labs,Healthcare,Ranchi,ArcGIS|Digital Marketing|Python|QGIS|Research,2 months,11500,Govt,Online
+932,Solar Projects Intern,Insight Finance Group,Renewable Energy,Pune,CSS|Excel|Linux|QGIS|Research|Typing,3 months,4500,Govt,Offline
+933,Digital Governance Intern,UrbanRise Solutions,E-Governance,Remote,Python|R|React|Research|SQL|Tally|Typing,1 month,7500,NGO,Offline
+934,Social Media Intern,Spectrum Media House,Media,Delhi,Canva|Content Writing|JavaScript|Photoshop|QGIS|SEO|SPSS|UI/UX,2 months,14000,NGO,Online
+935,Cyber Risk Intern,PolicyWorks India,Cybersecurity,Indore,C++|Content Writing|Figma|Linux|Networking|Python|UI/UX,1 month,9000,Private,Online
+936,Operations Intern,Insight Finance Group,Logistics,Guwahati,Linux|Photoshop|Power BI|Python|R|SPSS|SQL,2 months,11500,Govt,Hybrid
+937,Agri Research Intern,UrbanRise Solutions,Agriculture,Mumbai,Data Entry|Excel|HTML|Power BI|Python|R|SEO|SPSS,1 month,7000,Govt,Hybrid
+938,Learning Design Intern,LexGuard Associates,Education,Pune,C|Content Writing|Excel|HTML|R|SQL|Tally,3 months,11000,PSU,Offline
+939,Full Stack Intern,AgriNova Collective,IT,Bengaluru,Canva|Data Entry|Figma|Linux|Python|SolidWorks,1 month,10500,Govt,Offline
+940,Supply Chain Intern,HealthSphere Analytics,Logistics,Guwahati,Canva|JavaScript|Power BI|SQL|Typing,6 months,7000,PSU,Online
+941,GIS Mapping Intern,SecureNet Systems,GIS,Bhopal,ArcGIS|Excel|Figma|Java|Python|React|SEO,3 months,6000,PSU,Hybrid
+942,Social Media Intern,UrbanRise Solutions,Media,Mumbai,ArcGIS|Content Writing|JavaScript|Networking|Research,1 month,8500,Private,Hybrid
+943,Graphic Design Intern,GreenGrowth Initiatives,Design,Hyderabad,AutoCAD|Canva|Figma|Networking|Photoshop|SolidWorks|Typing|UI/UX,2 months,8000,NGO,Online
+944,Graphic Design Intern,HealthSphere Analytics,Design,Jaipur,ArcGIS|Canva|Illustrator|Photoshop|QGIS|SEO,3 months,7000,Private,Offline
+945,Clinical Research Intern,MapCraft GIS,Healthcare,Bengaluru,Digital Marketing|Excel|Figma|Linux|SPSS,1 month,3000,Govt,Offline
+946,Supply Chain Intern,SecureNet Systems,Logistics,Mumbai,ArcGIS|CSS|Data Entry|Excel|Power BI|SQL,6 months,14000,NGO,Online
+947,Finance Analyst Intern,CivicLink Foundation,Finance,Gurugram,AutoCAD|Digital Marketing|Excel|GST|Java|Networking|Photoshop|SolidWorks,6 months,8500,PSU,Online
+948,Data Analyst Intern,FutureWave Tech,Data Analytics,Bhopal,CSS|Excel|Java|JavaScript|R|SEO|SQL|SolidWorks,2 months,13500,Private,Online
+949,Data Analyst Intern,DataPulse Analytics,Data Analytics,Chennai,Data Entry|Figma|Java|SQL|Tableau|Tally,2 months,13500,NGO,Offline
+950,Business Intelligence Intern,Insight Finance Group,Data Analytics,Gurugram,Content Writing|Excel|GST|HTML|Linux|Photoshop|React|SQL,2 months,10000,PSU,Offline
+951,Civic Tech Intern,FutureWave Tech,E-Governance,Remote,AutoCAD|Excel|Java|Photoshop|R|Research|SQL,1 month,3000,NGO,Hybrid
+952,IT Support Intern,UrbanRise Solutions,IT,Noida,C++|CSS|Java|Networking|Python|React|Tally|Typing,1 month,6500,Private,Online
+953,Investment Research Intern,DataPulse Analytics,Finance,Patna,C++|GST|Networking|Power BI|Python|Research|SEO|SQL,2 months,11000,PSU,Online
+954,Policy Research Intern,NextGen Logistics,Public Policy,Remote,Excel|Figma|Java|Networking|Photoshop|SEO|Tableau,6 months,11000,Govt,Hybrid
+955,Data Analyst Intern,Spectrum Media House,Data Analytics,Gurugram,Digital Marketing|Excel|Figma|Power BI|R|Research|Tableau|UI/UX,2 months,15000,Private,Online
+956,Tour Planning Intern,UrbanRise Solutions,Tourism,Thiruvananthapuram,C++|CSS|Content Writing|Excel|Java|Photoshop|SolidWorks,2 months,14500,PSU,Offline
+957,Learning Design Intern,HealthSphere Analytics,Education,Mysuru,Content Writing|HTML|SEO,3 months,14500,Private,Offline
+958,Field Operations Intern (2),HealthSphere Analytics,Agriculture,Thiruvananthapuram,Excel|Java|Research|SPSS|SQL|Tally,1 month,8500,PSU,Offline
+959,IT Support Intern,HealthSphere Analytics,IT,Chennai,CSS|Content Writing|GST|Java|JavaScript|Python|Tally|Typing,1 month,5000,Startup,Offline
+960,Software Intern,Innovate Labs,IT,Hyderabad,C++|CSS|Linux|R|React|SEO|SPSS,1 month,9500,Startup,Offline
+961,Learning Design Intern,DataPulse Analytics,Education,Mumbai,CSS|Excel|Research|Tableau,2 months,3500,Startup,Hybrid
+962,Software Intern,GreenGrowth Initiatives,IT,Chandigarh,CSS|Illustrator|Java|Python|Tally,1 month,6000,Govt,Hybrid
+963,IT Support Intern,BrightPath Designs,IT,Bhopal,HTML|Illustrator|Power BI|Python,1 month,4000,Startup,Hybrid
+964,Supply Chain Intern,TourEase Travels,Logistics,Patna,ArcGIS|CSS|Excel|Networking|Power BI|SQL,1 month,9500,NGO,Offline
+965,Sustainability Intern,MapCraft GIS,Renewable Energy,Raipur,AutoCAD|Excel|Linux|React|Research|Tableau|UI/UX,1 month,11000,NGO,Offline
+966,Field Operations Intern,MapCraft GIS,Agriculture,Bengaluru,CSS|Canva|Excel|JavaScript|Photoshop|Python|QGIS,2 months,8500,Startup,Offline
+967,Legal Research Intern,Insight Finance Group,Law,Kochi,CSS|Content Writing|HTML|React|UI/UX,1 month,7000,Private,Hybrid
+968,Cyber Risk Intern,Insight Finance Group,Cybersecurity,Ranchi,C++|Illustrator|Networking|Power BI,6 months,11500,Private,Hybrid
+969,Tour Planning Intern,SecureNet Systems,Tourism,Patna,ArcGIS|Digital Marketing|Excel|Photoshop|Research|SQL|Tableau,1 month,12000,Govt,Hybrid
+970,IT Support Intern,Skyline Innovations,IT,Nagpur,Canva|Excel|Java|JavaScript|Power BI|SQL|SolidWorks|UI/UX,2 months,10500,PSU,Offline
+971,Legal Research Intern,TourEase Travels,Law,Gurugram,Content Writing|Power BI|QGIS|Research|UI/UX,6 months,7000,Startup,Offline
+972,Business Intelligence Intern,GreenGrowth Initiatives,Data Analytics,Ranchi,AutoCAD|Power BI|Python|R|Tally,1 month,6000,NGO,Online
+973,Compliance Intern,SecureNet Systems,Law,Chennai,Data Entry|Figma|R|Research|SPSS|UI/UX,6 months,8000,Govt,Online
+974,Agri Research Intern,PolicyWorks India,Agriculture,Kolkata,ArcGIS|Excel|GST|JavaScript|Networking|QGIS,6 months,11000,Govt,Online
+975,Supply Chain Intern,BrightPath Designs,Logistics,Chandigarh,AutoCAD|Excel|Java|Linux|QGIS|Research|SQL,3 months,11500,Govt,Online
+976,Policy Research Intern,EcoVision Energy,Public Policy,Indore,Content Writing|Excel|QGIS|React|Research|SEO,1 month,7000,Startup,Online
+977,Healthcare Data Intern,Spectrum Media House,Healthcare,Raipur,CSS|Excel|Power BI|Tally,3 months,7000,PSU,Offline
+978,Cyber Risk Intern,GreenGrowth Initiatives,Cybersecurity,Bengaluru,C|Excel|Linux|Typing,6 months,4000,PSU,Hybrid
+979,Data Analyst Intern (2),FutureWave Tech,Data Analytics,Bhopal,Excel|Figma|Illustrator|Power BI|Python|SQL,2 months,3000,Private,Online
+980,Security Analyst Intern,DataPulse Analytics,Cybersecurity,Indore,Linux|Networking|SQL|SolidWorks,3 months,3000,Private,Online
+981,IT Support Intern,PolicyWorks India,IT,Noida,CSS|Digital Marketing|Networking|Power BI,6 months,7500,Govt,Offline
+982,Academic Research Intern,NextGen Logistics,Education,Mysuru,C|Excel|GST|R|Research,1 month,15000,NGO,Hybrid
+983,Travel Operations Intern,PolicyWorks India,Tourism,Thiruvananthapuram,C++|Content Writing|Digital Marketing|Excel|Figma|Java|Typing,6 months,9500,Startup,Hybrid
+984,Solar Projects Intern,PolicyWorks India,Renewable Energy,Gurugram,AutoCAD|Excel|Java|SPSS,1 month,14000,Govt,Online
+985,Full Stack Intern,EcoVision Energy,IT,Chandigarh,CSS|GST|Java|Photoshop|Python|React|SPSS,2 months,12500,Govt,Offline
+986,Graphic Design Intern,FutureWave Tech,Design,Indore,Digital Marketing|Excel|Figma|Photoshop|SQL|UI/UX,2 months,11500,NGO,Offline
+987,Agri Research Intern,UrbanRise Solutions,Agriculture,Remote,Canva|Excel|Illustrator|Linux|SPSS|Tally,6 months,8000,Govt,Online
+988,Academic Research Intern,LexGuard Associates,Education,Mysuru,C|CSS|Content Writing|GST|Photoshop,3 months,8500,Govt,Online
+989,Social Media Intern,NextGen Logistics,Media,Hyderabad,Canva|GST|React|Research|SEO|Tally|UI/UX,2 months,6000,Govt,Online
+990,Spatial Data Intern,LexGuard Associates,GIS,Chennai,CSS|Excel|Figma|QGIS|Research,2 months,9000,Private,Offline
+991,Solar Projects Intern,GreenGrowth Initiatives,Renewable Energy,Remote,C++|Excel|GST|HTML|JavaScript|QGIS|Research,2 months,6500,Private,Online
+992,Travel Operations Intern,CivicLink Foundation,Tourism,Guwahati,Canva|Digital Marketing|Excel|GST|Java|Networking|Python|UI/UX,1 month,5000,Startup,Hybrid
+993,Policy Research Intern,CivicLink Foundation,Public Policy,Guwahati,AutoCAD|Content Writing|HTML|Photoshop|Research|Tally,3 months,14500,Govt,Hybrid
+994,Academic Research Intern,BrightPath Designs,Education,Mumbai,CSS|Content Writing|Excel|R|Tableau,6 months,3000,Govt,Hybrid
+995,Legal Research Intern,LexGuard Associates,Law,Patna,Canva|Content Writing|Data Entry|Excel|Python|QGIS,1 month,3000,PSU,Offline
+996,Learning Design Intern,UrbanRise Solutions,Education,Nagpur,Content Writing|Java|JavaScript|Python|React|Research|SEO|SolidWorks,2 months,8000,NGO,Hybrid
+997,Data Analyst Intern (2),AgriNova Collective,Data Analytics,Hyderabad,C++|Excel|Java|Power BI|Tableau,6 months,10000,Private,Offline
+998,Learning Design Intern,TourEase Travels,Education,Guwahati,C|CSS|Content Writing|Excel|GST|Research|SolidWorks,1 month,4000,Govt,Hybrid
+999,Compliance Intern,NextGen Logistics,Law,Kochi,Content Writing|Data Entry|Digital Marketing|Java|QGIS|Research,3 months,6500,Startup,Online
+1000,Sustainability Intern,Innovate Labs,Renewable Energy,Gurugram,AutoCAD|Power BI|R|Tableau,6 months,14500,Private,Online
